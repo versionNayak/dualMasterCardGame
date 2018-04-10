@@ -1,0 +1,574 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+/*Styles added by khushboo*/
+.search_btns .addbtn
+{
+    margin-right:12px
+}
+.form_search_client
+{
+    margin-bottom:30px;
+}
+
+.btn_Disabled
+{
+	pointer-events: none;
+	opacity:0.7;
+}
+
+.modal-backdrop.in
+{
+	opacity:0.5 !important;
+}
+
+ .modal.in .modal-dialog
+{
+	z-index:99999;
+}
+
+.newmodal .modal-footer, .newmodal .modal-body
+{
+	height: auto !important;
+	padding: 10px 16px !important;
+}
+
+.no_padding
+{
+padding:0px!important;
+}
+
+.mem_icon td 
+{
+text-align:center!important;
+}
+
+.form-horizontal input:disabled
+{
+clip: auto;
+   position: static !important;
+/*    width: inherit; */
+   height: inherit;
+}
+
+.head img:hover
+{
+cursor: pointer;
+}
+
+.radio_table input
+{
+width: 164px!important;
+}
+
+.mem_icon td
+{ 
+width:30%!important;
+}
+
+.addbtn {
+    margin-right: 12px;
+}
+
+.mandatory
+{
+	display: none;
+}
+
+/*risk profile*/
+
+#questions
+{
+	list-style-type: none;
+	padding-left:20px;
+}
+.question:not(.active), .question_list li:not(.cur_ques)
+{
+  display:none;
+}
+
+.answers ol
+{
+	list-style-type:none!important;
+	padding-left: 0px;
+}
+
+
+.answers ol li
+{
+	    padding: 10px 2px!important;
+}
+
+
+.prev_btn
+{
+	background-color: #7a7a7a !important;
+	color: #ffffff;
+	width: 21%;
+    height: 33px;
+    padding: 2px; 
+    margin-right: 20px;
+}
+
+
+.prev_btn:hover, .prev_btn:active, .prev_btn:focus
+{
+	background-color: #7a7a7a !important;
+	color: #ffffff;
+}
+
+.risk_calc
+{
+
+	display: none;
+}
+
+.dmcontainer
+{
+	background-color: white;
+    width:auto;
+    height: 100%;
+    margin-top: 33px;
+    margin-left: -5px;
+    padding: 20px;
+}
+
+select.input-width-medium {
+    width: 228px;
+}
+.risk_profile_table 
+{
+	display: none;
+}
+.risk_profile_table tr td, .risk_profile_table tr th
+{
+	text-align: center !important;
+}
+.table_text-center tr th, .table_text-center tr td
+{
+	text-align: center;
+}
+
+.r_table tbody tr:nth-child(odd)
+{
+	background: none;
+}
+.risk_profile_t, .rp_questions_list
+{
+	display: none;
+}
+
+.question_add input
+{
+	margin-bottom: 15px;
+}
+
+.rp_answer
+{
+	float: left;
+	width: 77%;
+}
+
+.score
+{
+	 width: 20%;
+    float: left;
+    margin-left: 20px;
+}
+
+.buttons a
+{
+	line-height: 28px;
+	text-align: center;
+}
+
+.buttons a:hover
+{
+	text-decoration: none;
+}
+
+.question_list
+{
+	list-style-type: none;
+	padding-left:0;
+}
+.question_list .q_li
+{
+	margin-bottom:15px;
+}
+
+.prevbtn, .finbtn, .svebtn
+{
+	display: none;
+}
+.q_num
+{
+	margin-bottom:10px;
+}
+
+.full_width
+{
+    width: 100%!important;
+}
+
+.bottom_fixed
+{
+position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+
+.btn-file {
+  position: relative;
+  overflow: hidden;
+  width:100%!important;
+  padding:0px!important;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    width: 100%!important;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+
+.mtop2
+{
+margin-top: 2px!important;
+}
+
+
+#idusermanagement.active_img
+{
+  content: url(../images/icons/i_User-Management_active.png);
+}
+#idclientRecords.active_img
+{
+  content: url(../images/icons/i_Client-Records_active.png);
+}
+#idmasters.active_img
+{
+  content: url(../images/icons/i_masters-active.png);
+}
+#idreportscmz.active_img
+{
+  content: url(../images/icons/i_Report-Customization_active.png);
+}
+#idadvisorSupport.active_img
+{
+  content: url(../images/icons/i_Advisor-Support_active.png);
+}
+#idmis.active_img
+{
+  content: url(../images/icons/i_mis-active.png);
+}
+#idotheresources.active_img
+{
+  content: url(../images/icons/5-A.png);
+}
+#idfinexaSubscription.active_img
+{
+  content: url(../images/icons/i_Finexa_Subscription_active.png);
+}
+
+.reset_btn
+{
+  display: none;
+}
+
+.masterfiles
+{
+  display: none;
+  padding-left: 8.5%;
+}
+
+
+/*reports css*/
+.cust_headers, .hidden_file_input, .header_input, .cust_footers, .disclaimer_inputs
+{
+ display: none;
+}
+
+.header
+{
+ padding: 10px;
+ margin-top: 5px;
+ cursor: pointer;
+ border:2px dashed #f1f1f1;
+}
+
+.header:hover
+{
+ background: #f1f1f1;
+}
+
+.header_title
+{
+ font-size: 16px;
+ font-weight: bold;
+}
+.header_format
+{
+ padding: 10px;
+ border:1px solid #dcdcdc;
+}
+
+.header_input, .header_input:focus
+{
+ background: none;
+   box-shadow: none;
+   border: 0;
+   outline: none;
+
+}
+
+.disclaimer_inputs input, .disclaimer_inputs textarea
+{
+ margin-top:10px;
+}
+
+
+.pad0
+{
+padding:0px!important;
+}
+
+.resources_btn
+{
+padding-top: 18px;
+    padding-left: 25px;
+}
+
+/* Pricing Table */
+
+
+.pricingTable{
+    text-align: center;
+}
+.pricingTable .pricingTable-header{
+    padding: 30px 0;
+    background: #4d4d4d;
+    position: relative;
+    transition: all 0.3s ease 0s;
+}
+.pricingTable:hover .pricingTable-header{
+    background: #6eaee5;
+}
+.pricingTable .pricingTable-header:before,
+.pricingTable .pricingTable-header:after{
+    content: "";
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    border: 1px solid #d9d9d8;
+    position: absolute;
+    bottom: 12px;
+}
+.pricingTable .pricingTable-header:before{
+    left: 40px;
+}
+.pricingTable .pricingTable-header:after{
+    right: 40px;
+}
+.pricingTable .heading{
+        font-size: 16px;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 0;
+}
+.pricingTable .price-value{
+    display: inline-block;
+    position: relative;
+        font-size: 43px;
+    font-weight: bold;
+    color: #09b1c5;
+    transition: all 0.3s ease 0s;
+}
+.pricingTable:hover .price-value{
+    color: #fff;
+}
+.pricingTable .currency{
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    top: 6px;
+    left: -19px;
+}
+.pricingTable .month{
+    font-size: 16px;
+    color: #fff;
+    position: absolute;
+    bottom: 15px;
+    right: -30px;
+    text-transform: uppercase;
+}
+.pricingTable .pricing-content{
+    padding-top: 50px;
+    background: #f7f7f7;
+    position: relative;
+}
+.pricingTable .pricing-content:before,
+.pricingTable .pricing-content:after{
+    content: "";
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    border: 1px solid #7c7c7c;
+    position: absolute;
+    top: 12px;
+}
+.pricingTable .pricing-content:before{
+    left: 40px;
+}
+.pricingTable .pricing-content:after{
+    right: 40px;
+}
+.pricingTable .pricing-content ul{
+       padding: 0 0px;
+    margin: 0;
+    list-style: none;
+}
+.pricingTable .pricing-content ul:before,
+.pricingTable .pricing-content ul:after{
+    content: "";
+    width: 8px;
+    height: 46px;
+    border-radius: 3px;
+    background: linear-gradient(to bottom,#818282 50%,#727373 50%);
+    position: absolute;
+    top: -22px;
+    z-index: 0;
+    box-shadow: 0 0 5px #707070;
+    transition: all 0.3s ease 0s;
+}
+.pricingTable:hover .pricing-content ul:before,
+.pricingTable:hover .pricing-content ul:after{
+    background: linear-gradient(to bottom, #40c4db 50%, #34bacc 50%);
+}
+.pricingTable .pricing-content ul:before{
+    left: 44px;
+}
+.pricingTable .pricing-content ul:after{
+    right: 44px;
+}
+.pricingTable .pricing-content ul li{
+    font-size: 13px;
+    text-align: left;
+    color: #777473;
+    height: 48px;
+    padding: 4px 16px;
+    border-bottom: 1px solid #d9d9d8;
+}
+.pricingTable .pricing-content ul li:last-child{
+    border-bottom: none;
+}
+.pricingTable .read{
+    display: inline-block;
+    font-size: 16px;
+    color: #fff;
+    text-transform: uppercase;
+    background: #d9d9d8;
+    padding: 8px 25px;
+    margin: 30px 0;
+    transition: all 0.3s ease 0s;
+}
+.pricingTable .read:hover{
+    text-decoration: none;
+}
+.pricingTable:hover .read{
+    background: #09b1c5;
+}
+
+.main_li
+{
+   background: #6eaee5;
+    color: white!important;
+    font-size: 14px!important;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding-top: 13px!important;
+}
+
+
+.pricing_pad
+{
+    padding-left: 17px;
+    padding-top: 30px;
+}
+.text_left
+{
+    text-align: left!important;
+}
+
+.padl0
+{
+padding-left:0px!important;
+}
+
+@media screen and (max-width: 990px){
+    .pricingTable{ margin-bottom: 25px; }
+}
+
+
+/*End Pricing Table*/
+
+/*Changes for right toggle menu start*/
+#mySidenav hr, #mySidenav a
+{
+ margin:0;
+}
+
+
+.sidenav {
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 31;
+    right: 0;
+    margin-top: 8px;
+    background-color: #6eaee5 !important;
+    transition: 0.5s;
+    padding-top: 0px;
+    width: 150px;
+    display: none;
+    font-size: 12px;
+    height: auto;
+    border: 1px solid #dcdcdc;
+}
+
+
+.sidenav a {
+    padding: 10px 12px 12px 30px;
+    text-decoration: none !important;
+    font-size: 14px !important;
+    color: white;
+    display: block;
+    transition: 0.3s;
+    text-align: left;
+    margin: 0;
+    margin-left: 0px;
+    background: #6eaee5;
+}
+/*Changes for right toggle menu end*/
+
+
+/*Changes for top menu logo orientaion start*/
+
+@media(min-width:1368px)
+{
+.container {
+    width: 90%;
+}
+
+}
+
+/*Changes for top menu logo orientaion start*/

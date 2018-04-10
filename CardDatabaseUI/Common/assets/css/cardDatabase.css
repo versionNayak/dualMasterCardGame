@@ -1,0 +1,22 @@
+.bg {
+	background-image: url(../images/loginbg.png);
+	background-position: right 0px top 0px;
+	background-repeat: no-repeat;
+	overflow: hidden;
+}  
+
+.bg2 {
+	background-image: url(../images/registerbg.jpg);
+	background-position: right 0px top 0px;
+	background-repeat: no-repeat;
+	overflow: hidden;
+}  
+
+
+/* html {
+	background: url(../images/loginbg2.png) no-repeat center center fixed; 
+	-webkit-background-size: cover; 
+	-moz-background-size: cover; 
+	-o-background-size: cover; 
+	background-size: cover; 
+}  */

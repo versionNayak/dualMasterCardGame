@@ -1,0 +1,65 @@
+<script src="../Common/assets/js/mybusiness_sidebar_plan.js"></script>
+<ul class="sidebar-nav nav-pills nav-stacked" id="menu">
+	<li class="has-submenu">
+		<a href="#" class="client_contact_management"><span class="fa-stack fa-lg " ></span> <span class="client_contact_management">Client Contact<br>&ensp;&ensp;&ensp;&ensp;&nbsp;Management</span> </a>
+		<!--<ul class="nav-pills nav-stacked nestedpersonalp">
+			<li><a href="#" class="budgetdash">Dashboard <span class="budgetdash_arrow" >&#8594;</span></a> </li>
+			<li><a href="#" class="budgetinput">Input <span class="budgetinput_arrow">&#8594;</span> </a></li>
+			<li><a href="#" class="budgetplanning">Budget Planning Report <span class="budgetplanning_arrow">&#8594;</span></a></li>
+		</ul>-->
+	</li>
+
+<!--<li class="has-submenu client_activation_status">
+	<a href="#"><span class="fa-stack fa-lg pull-left"></span><span class="client_activation_status">Client Activation Status</span></a>
+	<!--<ul class="nav-pills nav-stacked nestedincome">
+		<li><a href="#" class="goaldash">Dashboard <span class="goaldash_arrow" >&#8594;</span></a></li>
+		<li><a href="#" class="inputplanning">Input <span class="goalinput_arrow" >&#8594;</span></a></li>
+		<li><a href="#" class="goalplanning">Goal Planning Report <span class="goalplanning_arrow" >&#8594;</span></a></li>
+	</ul>
+</li>-->
+<li class="has-submenu">
+	<a href="#"> <span class="fa-stack fa-lg pull-left"></span><span>Import/Export<br></span><span>&ensp;&ensp;&ensp;&ensp;Client Records</span></a>
+	<ul class="nav-pills nav-stacked nestedportfolio">
+		<li>
+		<a href="#" class="import_client_records">Import Client Records <span class="pi_arrow">&#8594;</span></a>
+		</li>
+		<li>
+		<a href="#" class="export_client_records">Export Client Records <span class="pi_arrow">&#8594;</span></a>
+		</li>
+		
+	</ul>
+</li>
+
+
+<li class="has-submenu">
+	<a href="#"><span class="fa-stack fa-lg pull-left"></span><span class="">Client Mapping</span></a>
+	<ul class="nav-pills nav-stacked nestedportfolio">
+		<li>
+		<a href="#" class="mapping_client">Client Remapping <span class="pi_arrow" >&#8594;</span></a>
+		</li>
+		<li>
+		<a href="#" class="mapping_bulk_upload">Bulk Upload <span class="pi_arrow" >&#8594;</span></a>
+		</li>
+		
+	</ul>
+</li>
+
+</ul>
+
+
+<script>
+$('.sidebar-nav li a').click(function(){
+       $('.sidebar-nav li .pi_arrow').hide();
+       $('.sidebar-nav li a').removeClass('activeitem');
+       $('.sidebar-nav li').removeClass('expanded');
+       $(this).addClass('activeitem');
+       $(this).parent().addClass('expanded');
+       $('.sidebar-nav li ul li').removeClass('expanded');
+       $(this).find('.pi_arrow').show();
+   });
+
+$('.sub_menu_list ul li a').click(function(){
+   $(this).addClass('activeitem');
+   $(this).parent().parent().parent().addClass('expanded');
+});
+</script> 

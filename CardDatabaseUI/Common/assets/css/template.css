@@ -1,0 +1,569 @@
+ Right top humburger start*/
+.cursorptr{
+	
+	cursor:pointer !important;
+	
+}
+
+.sidenav {
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 31;
+    right: 0;
+    margin-top: 8px;
+    background-color: #6eaee5 !important;
+    transition: 0.5s;
+    padding-top: 0px;
+    width: 150px;
+    display: none;
+    font-size: 12px;
+    height: auto;
+    border: 1px solid #dcdcdc;
+}
+.sidenav {
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 31;
+    right: 0;
+    margin-top: 8px;
+    background-color: #6eaee5 !important;
+    transition: 0.5s;
+    padding-top: 0px;
+    width: 150px;
+    display: none;
+    font-size: 12px;
+    height: auto;
+    border: 1px solid #dcdcdc;
+}
+.sidenav a:hover, .onclickbg {
+    background: #f9f9f9;
+    color: black !important;
+	   
+}
+
+
+/*header section */
+#header {
+    position: fixed;
+    background-color: white;
+    z-index: 1;
+    height: 50px;
+    width: 100%;
+}
+
+
+/*client info header */
+
+.existingclient{
+	
+	color:#0b60a9;font-size:11px;
+	
+}
+
+.top-menu-container.clearfix  {
+	background-color: #6eaee5 !important;
+	height: 74px !important;
+	/* modified by Debolina Start on 21/09/2017 */
+	width: auto;
+	/* width: 1302px; */
+	/* modified by Debolina End on 21/09/2017*/
+	margin-top: -18px;
+}
+
+/*@-moz-document url-prefix() {
+	
+	
+	
+
+	
+}*/
+
+
+
+
+.activeplan{
+	content:url('../images/icons/2-A.png');
+	background-position: right 25px top 0;
+	width: 29px !important;
+	
+}
+.activeinvest{
+	content: url('../images/icons/3-A.png');
+	background-position: right 25px top 0;
+	width: 37px !important;
+}
+.activereports{
+	content: url('../images/icons/4-A.png');
+	background-position: right 25px top 0;
+	width: 37px !important;
+}
+.activereview{
+	content: url('../images/icons/7-A.png');
+	background-position: right 25px top 0;
+	width: 37px !important;
+}
+.activeresource{
+	content: url('../images/icons/5-A.png');
+	background-position: right 25px top 0;
+	width: 37px !important;
+}
+.activeclient{
+	content: url('../images/icons/1-A.png');
+	background-position: right 25px top 0;
+	width: 37px !important;
+}
+
+#Resourcesimg{
+	width:37px;margin-top:28px;
+}
+
+#Reportsimg{
+	width:37px;
+	margin-top:26px;
+}
+#Reviewimg{
+	width:37px;
+	margin-top:24px;
+}
+
+
+#Investimg{
+	width:37px !important;
+	margin-top:22px !important;
+}
+
+#planimg{
+	width:29px;
+	margin-top:23px;
+	background-color:white;
+}
+#clientimg,#Investimg,#idusermanagement,#idclientRecords,#idmasters,#idreportCustomization,#idmis,#idotheresources,#idfinexaSubscription,#idadvisorSupport,#idreportscmz{
+	width:37px !important;margin-top:22px !important;
+}
+.top-nav-items{
+
+   margin-top: -16px !important;
+    margin-left: -119px !important;
+}
+
+
+#profile{
+	margin-left:-277px;position:fixed;margin-top:26px;
+}
+#top-nav-bar{
+	
+	margin-left:302px;
+
+}
+
+.top-menu-container ul.top-nav-items li {
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    /*font-size: 1.8rem;*/
+    color: #141414;
+    text-align: center;
+    margin: 0 10px 10px 10px;
+}
+.top-menu-container ul.top-nav-items li a {
+    text-decoration: none;
+    color: #3a3a4f;
+    outline: none;
+	font-weight: 600;
+}
+.top-menu-container ul.top-nav-items li span {
+    display: block;
+    vertical-align: top;
+    width:  100px;
+    height: 60px;
+    margin-right: 6px;
+    margin-top: 2px;
+    background-repeat: no-repeat;
+}
+
+/*left side menu begin*/
+
+.activeitem{
+	
+	font-weight:400 !important;
+	color:#6eaee5 !important;
+	background-color:transparent !important;
+	
+}
+.hoverweight{
+	font-weight:400 !important;
+	color:#6eaee5  !important;
+	background-color:transparent !important;
+}
+
+.budgetdash_arrow,.budgetinput_arrow,.budgetplanning_arrow,.goaldash_arrow,.goalinput_arrow,.goalplanning_arrow,.portfoliodash_arrow,.portfolioinput_arrow,.portfolioplanning_arrow,.financialdash_arrow,.financialInput_arrow,.financialplanning_arrow, .fi_arrow,.cd_arrow,.le_arrow,.pi_arrow,.fai_arrow,.he_arrow,.gpr_arrow,.lifeins_arrow,.nonlifeins_arrow,.mfpms_arrow,.eqt_arrow,.fixedi_arrow,.retirement_arrow,.smallsvng_arrow,.altinvest_arrow,.cash_arrow,.lumpflow_arrow,.lifeins_arrow,.nonlifeins_arrow,.goaladd_arrow,.goalpriority_arrow{
+	display:none;
+	margin-right: 23px;
+    float: right;
+}
+	
+.expanded>a ,.nosubmenu{
+	background:#6eaee5  !important;
+	color:white !important;
+}
+
+.nosubmenu a{
+	background:#6eaee5  !important;
+	color:white !important;
+}
+.sidebar-nav li {
+    text-indent: -10px;
+    line-height: 42px;
+}
+.sidebar-nav li ul li {
+    text-indent: -10px;
+    line-height: 32px;
+}
+.sidebar-nav li a {
+    display: block;
+    text-decoration: none;
+    color: #141414;
+    border-radius: 0;
+    font-size: 14px;
+    /*font-size: 1.7rem;*/
+    font-weight: 400;
+    outline: none;
+	margin-top:2px;
+}
+.sidebar-nav li ul li a {
+    font-size: 14px;
+}
+.sidebar-nav li.active>a,
+.sidebar-nav li.active>a:focus,
+.sidebar-nav li.active>a:hover {
+    background-color: #fdfdfd;
+    color: #141414;
+    font-weight: 600;
+}
+.sidebar-nav li a:hover,
+.sidebar-nav li a:active,
+.sidebar-nav li a:focus {
+    text-decoration: none;
+    color: #141414;
+    background-color: #fdfdfd;
+    font-weight: 400;
+}
+
+#sidebar-wrapper {
+	z-index: 0;
+	top:105px;
+    position: absolute; 
+    left: 302px;
+    width: 302px;
+    height: 90%;
+    margin-left: -302px;
+    /** Removed by Jayati on 04/10/2017 to fix scrollbar issue when LHS menu is expanded**/
+    /* overflow-y: auto; */
+    /** End remove code by Jayati **/
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+.sidebar-nav {
+    position: absolute;
+    top: 6px;
+    width: 225px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    margin-top: 2px;
+    /** Added by Jayati on 04/10/2017 to fix broken border issue **/
+    border-right: 1px solid #dcdcdc;
+    height: 95%;
+    /** End code add by Jayati **/
+    
+}
+.sidebar-nav.nav-stacked>li {
+    float: left;
+    clear: both;
+    width: 100%;
+	font-size:16px;
+    border-bottom: .5px solid #d1d7d6;
+	/* padding: 10px 0;*/
+}
+.sidebar-nav.nav-stacked>li.has-submenu>a {
+    background: url("../images/arrow-collapsed.png") no-repeat;
+    background-position: right 12px top 15px;
+}
+.sidebar-nav.nav-stacked>li.has-submenu.expanded>a {
+    background: url("../images/arrow-expanded.png") no-repeat;
+    background-position: right 8px top 16px;
+}
+.sidebar-nav.nav-stacked>li>ul {
+    padding: 0;
+    list-style-type: none;
+    width: 242px;
+    display: block;
+    clear: both;
+    padding-left:48px !important;
+	font-size:13px;
+}
+
+/*bell*/
+.glyphicon.glyphicon-bell{
+	top:2px;
+	color:#5adedc;
+}
+/*top toggle button*/
+.ui-flipswitch-on.ui-btn.ui-shadow.ui-btn-inherit{
+	height:17px;
+	width:17px;
+}
+.ui-flipswitch-off,.ui-flipswitch-on
+{
+	font-size:16px !important;
+	margin-top: 1px !important;
+	padding-left: 10px !important;
+}
+
+.custom-size-flipswitch.ui-flipswitch .ui-btn.ui-flipswitch-on {
+    text-indent: -89px;
+	background-color: #90ed7d
+}
+.custom-size-flipswitch.ui-flipswitch {
+    width:8.875em;
+	height:20px;
+}
+.custom-size-flipswitch.ui-flipswitch.ui-flipswitch-active {
+    padding-left: 7em;
+    width: 8.875em;
+}
+/*Dashbord header with humburger*/
+
+.dashboardheading{
+margin-left:-34px;font-size:18px;margin-top:-2px;
+color:#3a3a4f;
+	
+	
+}
+
+#heading{
+	font-size: 16px;
+}
+
+
+
+/*General*/
+
+.white{
+	color:white !important;
+	font-weight:600px;
+}
+.marginwidth{
+	width: 20%;
+    margin-left: -55px;
+	padding:5px;
+}
+
+hr {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.dashbord{
+	
+	margin-bottom:-32px;
+	/* Jayati */
+	height: auto !important;
+	/* Jayati End */
+}
+.marginleft8px{
+	margin-left:-11px;
+}
+.width104per{
+	width:104% !important;	
+}
+.padding5textrt{
+	padding:5px;
+	text-align:right;
+}
+.font18px{
+	font-size:18px;
+}
+.margin7font18{
+	margin-right:7px;font-size:18px;	
+}
+.marginright7px{
+	
+	margin-right:7px;
+}
+.marginleft5px{
+	margin-left:-5px
+}
+.marginleft9px{
+	margin-left:-9px !important;
+}
+
+
+
+
+/* main body*/
+/* modified by Debolina */
+/* #wrapper>div,#businesswrapper>div{
+	margin-top:109px;
+}
+ */
+#wrapper > div, #businesswrapper > div, #advisorwrapper > div {
+	margin-top:109px;
+}
+/* modified by Debolina End */
+#wrapper{
+    padding-left: 224px;
+      -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    /* Modified By Debolina start on 21/09/2017 */
+   /*  overflow: scroll; */
+    overflow: hidden;
+     /* Modified By Debolina end on 21/09/2017 */
+	z-index:0 !important; 
+	height:auto !important;
+}
+
+#businesswrapper{
+	 padding-left: 224px;
+      -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    overflow: hidden;
+	z-index:0 !important; 
+	height:auto;
+	
+}
+ #page-content-wrapper {
+ 
+        padding: 15px 75px 0 75px;
+        position: relative;
+        -webkit-transition: all 0.5s ease;
+        -moz-transition: all 0.5s ease;
+        -o-transition: all 0.5s ease;
+        transition: all 0.5s ease;
+        border-left: .5px solid #dadada;
+    }
+ 
+/* Dashboard call */
+
+ /***margin bottom changed by Debolina from 26 made 62 and padding changed to 24 instead of 18****/
+.form-section-container {
+    background-color: #d4d4d5;
+    border-width: 1px 1px 0 1px;
+    border-color: #e0e9e6;
+    border-style: solid;
+    padding: 18px 45px 72px 45px;
+    height: auto;
+    margin-bottom: 62px;
+    margin-left: -32px !important;
+    /* Modified by Debolina Start at 21/09/2017 */
+  /*   width: 1025px !important; */
+  	width: 951px !important;
+  /* Modified by Debolina End at 21/09/2017 */
+}
+ 
+ 
+/* .form-section-container {
+    background-color: #d4d4d5;
+    border-width: 1px 1px 0 1px;
+    border-color: #e0e9e6;
+    border-style: solid;
+    padding: 18px 45px 97px 45px;
+    height: auto;
+    margin-bottom: 26px;
+    margin-left: -32px !important;
+    width: 100% !important;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+ */
+
+
+/* Footer */
+footer {
+	z-index: 1000;
+    background-color: #6eaee5 ;
+    padding: 7px 0;
+    text-align: left;
+    font-size: 10px;
+	margin-left:-54px;
+	/* font-size: 1.8rem;*/
+}
+footer p {
+	margin: 0;
+    padding-left: 75px;
+}
+
+
+
+
+
+.top-menu-container ul.top-nav-items li.separator.large-width {
+    display: inline-block;
+    width: 1px;
+    height: 79px;
+    margin: 0;
+}
+
+.ui-flipswitch-off{
+	
+	font-family:sans-serif !important;
+	font-size:14px !important;
+	    line-height: 17px !important;
+}
+
+.ui-btn{
+	
+	font-size:14px !important;
+}
+
+.top-menu-container ul.mybusinessmenu li{
+	
+	    margin: 0 -6px 10px 10px;
+	
+}
+
+/* Jayati */
+#dashbord{height: auto !important;}
+/* Jayati End */
+
+#finexa-footer 
+{
+     position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+mySidenav hr, mySidenav a
+{
+ margin:0;
+}
+
+.overlay {
+	display: none; 
+	width: 100%; 
+	height: 100%; 
+	position: fixed; 
+	z-index: 10000000; 
+	top: 0px; 
+	left: 0px; 
+	right: 0px; 
+	bottom: 0px; 
+	margin: auto;	
+}
+
+
+/* Switch button */
+.btn-default.btn-on.active{background-color: #5BB75B;color: white;}
+.btn-default.btn-off.active{background-color: #5BB75B;color: white;}
+
+/*#businessstatus .btn-default.btn-off.active{background-color: #5BB75B ;color: white;}
+#businessstatus .btn-default.btn-on.active{background-color: #DA4F49;color: white;}

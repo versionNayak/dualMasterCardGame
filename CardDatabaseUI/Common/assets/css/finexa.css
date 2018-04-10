@@ -1,0 +1,29 @@
+.input-width-income-expense-add-amount{
+	 width: 228px;
+}
+.input-width-income-expense-add-frequency{
+	 width: 130px;
+}
+
+table tr td .input-width-small-ss {
+	 width: 70px;
+	 borderRadius: 7px;
+	 background:white;	
+}
+
+.input-group.input-width-small {
+    width: 137px;
+}
+.form-horizontal .checkbox,
+.form-horizontal .checkbox-inline
+ {
+    margin-right: 10px;
+    margin-left: 0;
+    min-width: 105px;
+}
+.formentry-errmsg {
+	padding: 5px 0px 0px 0px;	
+  	font-size: 14px;
+  	color:red;
+  	white-space: nowrap;
+}

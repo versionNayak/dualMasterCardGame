@@ -1,0 +1,44 @@
+<script src="../Common/assets/js/mybusiness_sidebar_plan.js"></script>
+<ul class="sidebar-nav nav-pills nav-stacked" id="menu">
+<li class="has-submenu">
+	<a href="#"><span class="fa-stack fa-lg pull-left"></span><span class="risk_profile_master">Risk Profile Master</span></a>
+	<!--<ul class="nav-pills nav-stacked nestedincome">
+		<li><a href="#" class="goaldash">Dashboard <span class="goaldash_arrow" >&#8594;</span></a></li>
+		<li><a href="#" class="inputplanning">Input <span class="goalinput_arrow" >&#8594;</span></a></li>
+		<li><a href="#" class="goalplanning">Goal Planning Report <span class="goalplanning_arrow" >&#8594;</span></a></li>
+	</ul>-->
+</li>
+
+<li class="has-submenu">
+	<a href="#"><span class="fa-stack fa-lg pull-left"></span><span class="product_recom">Product Recommendation</span></a>
+	<!--<ul class="nav-pills nav-stacked nestedincome">
+		<li><a href="#" class="goaldash">Dashboard <span class="goaldash_arrow" >&#8594;</span></a></li>
+		<li><a href="#" class="inputplanning">Input <span class="goalinput_arrow" >&#8594;</span></a></li>
+		<li><a href="#" class="goalplanning">Goal Planning Report <span class="goalplanning_arrow" >&#8594;</span></a></li>
+	</ul>-->
+</li>
+<li class="has-submenu other_masters">
+	<a href="#"><span class="fa-stack fa-lg pull-left"></span><span class="other_masters">Other Masters</span></a>
+	<ul class="nav-pills nav-stacked nestedincome">
+		<li><a href="#" class="view_masters">View Masters<span class="view_masters_arrow">&#8594;</span></a></li>
+		<li><a href="#" class="upload_masters">Upload Masters<span class="upload_masters_arrow">&#8594;</span></a></li>
+	</li>
+	</ul>
+</li>
+
+
+
+</ul>
+<script>
+$('.sidebar-nav li a').click(function(){
+       $('.sidebar-nav li .view_masters_arrow').hide();
+       $('.sidebar-nav li .upload_masters_arrow').hide();
+       $('.sidebar-nav li a').removeClass('activeitem');
+       $('.sidebar-nav li').removeClass('expanded');
+       $(this).addClass('activeitem');
+       $(this).parent().addClass('expanded');
+       $('.sidebar-nav li ul li').removeClass('expanded');
+       $(this).find('.view_masters_arrow').show();
+       $(this).find('.upload_masters_arrow').show();
+   });
+ </script>

@@ -1,0 +1,73 @@
+<script src="../Common/assets/js/myclient_header.js"></script>
+
+<div class="container">
+	<div class="row">
+		<div class="col-lg-12 width104per">
+			<div class="col-lg-6 col-sm-6">
+				<a  href="#"><img src="../Common/assets/images/finexa-logo.jpg" alt="Finexa" class="marginwidth"/>
+				<span class="small" id="idVersion">Ver-0.1</span>
+				</a>
+			</div>
+			<div  class="col-lg-6 padding5textrt">	<span class="margin7font18" id="idUser"></span>
+				<a href="#" class="marginright7px"> 
+					<span class="glyphicon glyphicon-bell"></span>
+				</a>
+  				<div class="btn-group" id="status" data-toggle="buttons">
+		            <label class="btn btn-default btn-on btn-sm active" style="height:22px;padding-top:2px;">
+		            <input type="radio" value="1" name="tgl" checked="checked">My Client</label>
+		            <label class="btn btn-default btn-off btn-sm" style="height:22px;padding-top:2px;">
+		            <input type="radio" value="0" name="tgl" disabled>My Business</label>
+            	</div>			
+ 				<span id="hum" class="cursorptr"> &nbsp; &#9776;</span>
+				<div id="mySidenav" class="sidenav">
+					<a href="#" class="help">Help</a>
+					<hr/>
+					<a href="#" class="search">Search</a>
+					<hr/>
+					<a href="#" class="logout" onclick="logout()">Logout</a>
+					<hr/>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+	
+<br/>
+<div class="row top-menu-container clearfix">
+	<div class="col-lg-12 width104per" id="top-nav-bar">
+		<div class="col-lg-2">
+			<p id="profile"><span class="existingclient"><b>&#8592 Existing Clients</b><br/></span><span class="font18px white" id="idSelectedClientName"></span><br/></p>
+		</div>
+		<div  class="col-lg-12">
+			<ul class="top-nav-items" style="display:none">
+				<li class="nav-client-info active"><span><img src="../Common/assets/images/icons/1-B.png" alt="Client Info" id="clientimg"/></span><a>Client Info</a></li>
+				<li class="separator large-width"></li>
+				<li class="nav-plan"><a href="#"><span> <img src="../Common/assets/images/icons/2-B.png" alt="Plan" id="planimg"/></span><a class="marginleft9px">Plan</a></a></li>
+				<li class="separator large-width"><span></span></li>
+				<li class="nav-invest"><a href="#"><span> <img src="../Common/assets/images/icons/3-B.png" alt="Invest" id="Investimg"/></span><a class="marginleft5px">Invest</a></a></li>
+				<li class="separator large-width"><span></span></li>
+				<li class="nav-review"><a href="#"><span><img src="../Common/assets/images/icons/7-B.png" alt="Review" id="Reviewimg" class="Reviewimg"/></span><a class="marginleft5px">Review</a></a></li>
+				<li class="separator large-width"><span></span></li>
+				<li class="nav-reports"><a href="#"><span> <img src="../Common/assets/images/icons/4-B.png" alt="Reports" id="Reportsimg"/></span><a class="marginleft8px">Reports</a></a></li>
+				<li class="separator large-width"><span></span></li>
+				<li class="nav-resources"><a href="#"><span> <img src="../Common/assets/images/icons/5-B.png" alt="Resourceimg" id="Resourcesimg"/></span><a>Resources</a></a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+<link rel="stylesheet" href="../Common/assets/css-library/toggle.css">
+<script src="../Common/assets/js-library/mobilejs.js"></script>
+<script type="text/javascript">
+var loggedUser = JSON.parse(sessionStorage.getItem("LOGGED_IN_USER"));
+
+$(document).ready(function (event) {
+	$("#idVersion").text(version);
+	if (loggedUser === null){
+		window.location = "../login.html";
+	}else{
+		$("#idUser").html("<b>Welcome </b>"+ loggedUser.firstName + " " +loggedUser.lastName );
+	}
+
+});
+</script>

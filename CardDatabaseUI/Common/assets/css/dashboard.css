@@ -1,0 +1,5012 @@
+/**Added by Neha on 11thDecember **/
+.libilitiestbl tr td:nth-child(2) {
+	text-align: right !important;
+}
+
+.libilitiestbl tr th:nth-child(2) {
+	text-align: right !important;
+}
+
+.libilitiestbl tr td:nth-child(3) {
+	text-align: right !important;
+}
+
+.libilitiestbl tr th:nth-child(3) {
+	text-align: right !important;
+}
+/*modified on 6th feb*/
+.dynamicgoalscroll {
+    overflow-x: scroll !important;
+    overflow-y: hidden;
+    width:67em !important;
+}
+
+.libilitiestbl tr th:nth-child(1)
+{ text-align:left !important; } 
+/**End of Additions***/
+/********Changed By Debolina 23rdOct,2017*****/
+#idExpenseDetailTable tr td:nth-child(1) {
+	width: 30% !important;
+}
+
+#committedtbl tr td:nth-child(1) {
+	width: 14% !important;
+}
+
+.individualoan tr td:nth-child(1) {
+	width: 11% !important;
+}
+/********Changed By Debolina end 23rdOct,2017*****/
+/** Added By NehaD 15th Sep Version  Start**/
+
+
+/**added on 30th oct by neha start**/
+@-moz-document url-prefix(){
+
+#idCurrentIncome,#idCurrentExpenses
+{
+	width:70% !important;
+}
+
+#idCurrentIncome svg{
+	width:400px !important;
+	
+}
+.jssort13 div:nth-child(2) div:nth-child(4) {
+    margin-left: 455px;
+}
+
+#idCurrentIncome>div{
+	width:400px !important;
+}
+#idCurrentIncome, #idCurrentExpenses, #idCurrentlibilities, #idassets,
+	#idlibilities, #idassetspop, #idlibilitiespop, #idcurrentsubassets,
+	#idcurrentsubassetspop,#idexpensesummary {
+	width: 70% !important;
+}
+
+#idCurrentExpenses>div, #idCurrentlibilities>div,
+	#idassets>div, #idlibilities>div, #idcurrentsubassets>div,#idexpensesummary>div {
+	width: 400px !important;
+}
+
+#idCurrentIncome svg, #idCurrentExpenses svg, #idlibilities svg,
+	#idassets svg, #idlibilities svg, #idcurrentsubassets svg,#idexpensesummary svg {
+	margin-left: 91px;
+	/* margin-top: -26px;*/
+	width: 300px;
+}
+
+
+.riskprofiletbl { 
+	
+	margin-top:-125px! important;
+	
+}
+
+.riskprofiletbl td p{
+	
+	margin-top: -151px !important;
+padding-right: 67px !important;
+	
+}
+.jssort11 div:nth-child(2) div:nth-child(6) {
+    margin-left: 1033px !important;
+}
+}
+/**added on 30th oct by neha end**/
+
+@-moz-document url-prefix () { .riskprofiletbl { margin-top:-120px!important;
+	
+}
+/****Change by Neha on 30thOct ****/
+
+#jssor_13 div div div:nth-child(2) div:nth-child(3), #jssor_11 div div div:nth-child(2) div:nth-child(3),
+	#jssor_13 div div div:nth-child(2) div:nth-child(4), #jssor_12 div div div:nth-child(2) div:nth-child(3),
+	#jssor_20 div div div:nth-child(2) div:nth-child(2), #jssor_6 div div div:nth-child(2) div:nth-child(2)
+	{
+	/*position :initial !important;*/
+	
+}
+
+.jssort21 div:nth-child(2) div:nth-child(6), .jssort22 div:nth-child(2) div:nth-child(6)
+	{
+	margin-left: 980px !important;
+}
+
+.bmratiotblff {
+	margin-left: 193px !important;
+}
+
+#idMaxLoansgraphs {
+	display: block !important;
+}
+
+.jssort10 div:nth-child(2) div:nth-child(5) {
+	margin-left: 14px;
+}
+
+.bmratiotbl {
+	margin-top: -87px !important;
+	margin-left: 200px;
+}
+
+.44wdthff {
+	width: 38% !important;
+}
+
+#idCurrentIncome, #idCurrentExpenses, #idCurrentlibilities, #idassets,
+	#idlibilities, #idassetspop, #idlibilitiespop, #idcurrentsubassets,
+	#idcurrentsubassetspop {
+	width: 70%;
+}
+
+.pictbls {
+	margin-left: -35px !important;
+}
+
+#idRecommendedasset {
+	margin-left: 80px !important;
+}
+
+#idCurrentIncome>div, #idCurrentExpenses>div, #idCurrentlibilities>div,
+	#idassets>div, #idlibilities>div, #idcurrentsubassets>div {
+	width: 400px !important;
+}
+
+#jssor_2, #jssor_17 {
+	height: 406px !important;
+}
+
+.jssort09 div:nth-child(2) div:nth-child(3)>div {
+	margin-left: 73px !important;
+}
+
+.jssort09 div:nth-child(2) div:nth-child(3) {
+	width: 329px !important;
+}
+/***Modification by Neha on 28thOct***/
+.jssort08 div:nth-child(2) div:nth-child(4) {
+   margin-left: 527px !important;
+}
+
+
+
+}
+.networthsmry tr th:nth-child(1) {
+	text-align: left;
+}
+
+.contingencytbl tr th:nth-child(1), .contingencytbl tr th:nth-child(2),
+	.contingencytbl tr td:nth-child(2) {
+	text-align: left !important;
+}
+
+.subheadingcolor {
+	background-color: #f9f9f9 !important;
+	color: #6eaee5 !important;
+	padding: 5px;
+}
+
+.padding5px {
+	padding: 5px;
+}
+
+.pmportfoliotracker, .currentaatbl, .currentsubtbl, .benchmarktbl,
+	.overviewbyproduct, .benchmarktblmarketcap, .cashflowInflows,
+	.cashflowdetails {
+	border: 5px solid white !important;
+	-moz-border: 5px solid white !important;
+}
+
+.bluebg {
+	background-color: #EBF5FB !important;
+}
+
+.grybg {
+	background-color: #A6ACAF !important;
+}
+
+.pmportfoliotracker tbody tr:nth-child(odd) td:nth-child(3),
+	.pmportfoliotracker tbody tr:nth-child(odd) td:nth-child(4) {
+	background-color: #D6EAF8;
+}
+
+.planofaction tbody tr:nth-child(odd) td:nth-child(3), .planofaction tbody tr:nth-child(odd) td:nth-child(4)
+	{
+	background-color: #d4d4d5 !important;
+}
+
+.planofaction {
+	margin-left: 217px;
+}
+
+.currentsubtbl tbody tr:nth-child(odd) td:nth-child(2), .currentsubtbl tbody tr:nth-child(odd) td:nth-child(3),
+	.benchmarktbl tbody tr:nth-child(odd) td:nth-child(2), .benchmarktbl tbody tr:nth-child(odd) td:nth-child(3),
+	.benchmarktbl tbody tr:nth-child(odd) td:nth-child(4), .benchmarktbl tbody tr:nth-child(odd) td:nth-child(5),
+	.benchmarktbl tbody tr:nth-child(odd) td:nth-child(6), .benchmarktbl tbody tr:nth-child(odd) td:nth-child(7),
+	.benchmarktbl tbody tr:nth-child(odd) td:nth-child(8), .benchmarktbl tbody tr:nth-child(odd) td:nth-child(9),
+	.overviewbyproduct tbody tr:nth-child(odd) td:nth-child(3),
+	.overviewbyproduct tbody tr:nth-child(odd) td:nth-child(4),
+	.overviewbyproduct tbody tr:nth-child(odd) td:nth-child(8),
+	.overviewbyproduct tbody tr:nth-child(odd) td:nth-child(9),
+	.overviewbyproduct tbody tr:nth-child(odd) td:nth-child(10) {
+	background-color: #D6EAF8;
+}
+
+.overviewbyproduct tbody tr:nth-child(odd) td:nth-child(2),
+	.overviewbyproduct tbody tr:nth-child(odd) td:nth-child(5),
+	.overviewbyproduct tbody tr:nth-child(odd) td:nth-child(6),
+	.overviewbyproduct tbody tr:nth-child(odd) td:nth-child(7) {
+	background-color: #FDEBD0;
+}
+
+.benchmarktblmarketcap tbody tr:nth-child(odd) td:nth-child(3),
+	.benchmarktblmarketcap tbody tr:nth-child(odd) td:nth-child(4),
+	.benchmarktblmarketcap tbody tr:nth-child(odd) td:nth-child(5),
+	.benchmarktblmarketcap tbody tr:nth-child(odd) td:nth-child(6),
+	.benchmarktblmarketcap tbody tr:nth-child(odd) td:nth-child(7),
+	.benchmarktblmarketcap tbody tr:nth-child(odd) td:nth-child(8),
+	.benchmarktblmarketcap tbody tr:nth-child(odd) td:nth-child(9),
+	.benchmarktblmarketcap tbody tr:nth-child(odd) td:nth-child(10),
+	.cashflowdetails tbody tr:nth-child(odd) td:nth-child(9),
+	.cashflowdetails tbody tr:nth-child(odd) td:nth-child(10),
+	.cashflowdetails tbody tr:nth-child(odd) td:nth-child(11),
+	.cashflowdetails tbody tr:nth-child(odd) td:nth-child(12),
+	.cashflowdetails tbody tr:nth-child(odd) td:nth-child(13) {
+	background-color: #D6EAF8;
+}
+
+.cashflowdetails tr th, .cashflowdetails tr td {
+	text-align: center;
+}
+
+.currentaatbl tbody tr:nth-child(odd) td:nth-child(2), .currentaatbl tbody tr:nth-child(odd) td:nth-child(3)
+	{
+	background-color: #D6EAF8;
+}
+
+.networthdetail tbody tr:nth-child(even) {
+	background-color: #d4d4d5;
+}
+
+.networthdetail tbody tr:nth-child(odd) {
+	background-color: #f9f9f9;
+}
+
+.networthsmry tbody tr:nth-child(odd) {
+	/*background-color:#f9f9f9;*/
+	
+}
+
+.networthsmry tbody tr:nth-child(even) {
+	background-color: #f9f9f9;
+}
+
+.contingencytbl tbody tr:nth-child(even) {
+	background-color: #f9f9f9;
+}
+
+.pmportfoliotracker {
+	word-wrap: break-word;
+	margin-left: 33px;
+	margin-top: 30px;
+}
+
+.pmportfoliotracker tr td:nth-child(3), .pmportfoliotracker tr td:nth-child(4)
+	{
+	text-align: center;
+}
+
+.currentaatbl tr td:nth-child(2), .pmportfoliotracker tr td:nth-child(3)
+	{
+	text-align: center;
+}
+
+.pmportfoliotracker tr th:nth-child(3), .pmportfoliotracker tr th:nth-child(4)
+	{
+	text-align: center;
+}
+
+.currentaatbl tbody tr:nth-child(odd) td:nth-child(4), .currentaatbl tbody tr:nth-child(odd) td:nth-child(5),
+	.currentaatbl tbody tr:nth-child(odd) td:nth-child(6) {
+	background-color: #FDEBD0;
+	text-align: center;
+}
+
+.pmportfoliotracker tbody tr:nth-child(odd) td:nth-child(5),
+	.pmportfoliotracker tbody tr:nth-child(odd) td:nth-child(6),
+	.pmportfoliotracker tbody tr:nth-child(odd) td:nth-child(7),
+	.currentsubtbl tbody tr:nth-child(odd) td:nth-child(4), .currentsubtbl tbody tr:nth-child(odd) td:nth-child(5),
+	.currentsubtbl tbody tr:nth-child(odd) td:nth-child(6) {
+	background-color: #FDEBD0;
+	text-align: center;
+}
+
+.pmportfoliotracker tr th:nth-child(5), .pmportfoliotracker tr th:nth-child(6),
+	.pmportfoliotracker tr th:nth-child(7), .pmportfoliotracker tr td:nth-child(5),
+	.pmportfoliotracker tr td:nth-child(6), .pmportfoliotracker tr td:nth-child(7)
+	{
+	text-align: center;
+}
+
+.currentaatbl tr th:nth-child(2), .currentaatbl tr th:nth-child(3),
+	.currentaatbl tr th:nth-child(4), .currentaatbl tr th:nth-child(5),
+	.currentaatbl tr th:nth-child(6), .currentaatbl tr td:nth-child(2),
+	.currentaatbl tr td:nth-child(3), .currentaatbl tr td:nth-child(4),
+	.currentaatbl tr td:nth-child(5), .currentaatbl tr td:nth-child(6),
+	.currentsubtbl tr th:nth-child(2), .currentsubtbl tr th:nth-child(3),
+	.currentsubtbl tr th:nth-child(4), .currentsubtbl tr th:nth-child(5),
+	.currentsubtbl tr th:nth-child(6), .currentsubtbl tr th:nth-child(7),
+	.currentsubtbl tr td:nth-child(2), .currentsubtbl tr td:nth-child(3),
+	.currentsubtbl tr td:nth-child(4), .currentsubtbl tr td:nth-child(5),
+	.currentsubtbl tr td:nth-child(6), .currentsubtbl tr td:nth-child(7),
+	.benchmarktbl tr th:nth-child(2), .benchmarktbl tr th:nth-child(3),
+	.benchmarktbl tr th:nth-child(4), .benchmarktbl tr th:nth-child(5),
+	.benchmarktbl tr th:nth-child(6), .benchmarktbl tr th:nth-child(7),
+	.benchmarktbl tr th:nth-child(8), .benchmarktbl tr th:nth-child(9),
+	.benchmarktbl tr td:nth-child(2), .benchmarktbl tr td:nth-child(3),
+	.benchmarktbl tr td:nth-child(4), .benchmarktbl tr td:nth-child(5),
+	.benchmarktbl tr td:nth-child(6), .benchmarktbl tr td:nth-child(7),
+	.benchmarktbl tr td:nth-child(8), .benchmarktbl tr td:nth-child(9),
+	.benchmarktblmarketcap tr th:nth-child(1), .benchmarktblmarketcap tr th:nth-child(2),
+	.benchmarktblmarketcap tr th:nth-child(3), .benchmarktblmarketcap tr th:nth-child(4),
+	.benchmarktblmarketcap tr th:nth-child(5), .benchmarktblmarketcap tr th:nth-child(6),
+	.benchmarktblmarketcap tr th:nth-child(7), .benchmarktblmarketcap tr th:nth-child(8),
+	.benchmarktblmarketcap tr th:nth-child(9), .benchmarktblmarketcap tr th:nth-child(10),
+	.benchmarktblmarketcap tr td:nth-child(2), .benchmarktblmarketcap tr td:nth-child(3),
+	.benchmarktblmarketcap tr td:nth-child(4), .benchmarktblmarketcap tr td:nth-child(5),
+	.benchmarktblmarketcap tr td:nth-child(6), .benchmarktblmarketcap tr td:nth-child(7),
+	.benchmarktblmarketcap tr td:nth-child(8), .benchmarktblmarketcap tr td:nth-child(9),
+	.benchmarktblmarketcap tr td:nth-child(10), .overviewbyproduct tr th:nth-child(2),
+	.overviewbyproduct tr th:nth-child(3), .overviewbyproduct tr th:nth-child(4),
+	.overviewbyproduct tr th:nth-child(5), .overviewbyproduct tr th:nth-child(6),
+	.overviewbyproduct tr th:nth-child(7), .overviewbyproduct tr th:nth-child(8),
+	.overviewbyproduct tr th:nth-child(9), .overviewbyproduct tr td:nth-child(2),
+	.overviewbyproduct tr td:nth-child(3), .overviewbyproduct tr td:nth-child(4),
+	.overviewbyproduct tr td:nth-child(5), .overviewbyproduct tr td:nth-child(6),
+	.overviewbyproduct tr td:nth-child(7), .overviewbyproduct tr td:nth-child(8),
+	.overviewbyproduct tr td:nth-child(9), .overviewbyproduct tr td:nth-child(10)
+	{
+	text-align: center !important;
+}
+
+.cashflowInflows tr th, .cashflowInflows tr td {
+	text-align: center !important;
+}
+
+.pmportfoliotracker tr td:nth-child(2) {
+	text-align: left !important;
+}
+
+.pmportfoliotracker tr th:nth-child(1), .pmportfoliotracker tr th:nth-child(2)
+	{
+	text-align: left !important;
+}
+/** Added By NehaD 15th Sep Version  End**/
+*, html {
+	font-family: 'Rubik', Arial, sans-serif;
+}
+
+.Goals {
+	left: -0.5px !important;
+}
+
+.height56per {
+	height: 49% !important;
+}
+
+.height47per {
+	height: 41% !important;
+}
+
+.glidnonglidcolor {
+	background-color: #bebebf;
+}
+
+.glidnonglid {
+	margin-top: 5px;
+	margin-left: 341px;
+	display: none;
+	position: absolute;
+	width: 28%;
+}
+
+.height58per {
+	height: 51% !important;
+}
+
+#idGPSidenav {
+	height: 42%;
+}
+
+.jssort01 .p {
+	width: 207px !important;;
+}
+
+.sidenav1, .budgetsidenav {
+	height: 258px;
+	width: 0;
+	position: absolute;
+	z-index: 1;
+	top: -87px;
+	right: 0;
+	background-color: #6eaee5 !important;
+	transition: 0.5s;
+	margin-right: 46px;
+	margin-top: 151px; /** ChangeD 161PX to 151px  15th Sep (NehaD)**/
+}
+
+.sidenav1 { /** Removed Class .pmsidenav **/
+	height: 65%;
+	width: 0;
+	position: absolute;
+	z-index: 1;
+	top: -87px;
+	right: 0;
+	background-color: #6eaee5 !important;
+	transition: 0.5s;
+	margin-right: 46px;
+	margin-top: 151px; /** Changed from 161px to 151px (15th sep) start**/
+}
+
+.pmsidenav {
+	height: 67%;
+	width: 0;
+	position: absolute;
+	z-index: 1;
+	top: -87px;
+	right: 0;
+	background-color: #6eaee5 !important;
+	transition: 0.5s;
+	margin-right: 45px;
+	margin-top: 151px;
+}
+/** Changed from 161px to 151px (15th sep) end **/
+.sidenav1 a, .budgetsidenav a, .pmsidenav a {
+	padding: 8px 8px 8px 34px;
+	text-decoration: none !important;
+	color: white;
+	display: block;
+	transition: 0.3s;
+	font-size: 14px;
+	border-bottom: 1px solid #d4d4d5;
+}
+
+.sidenav1 a:hover, .onclickbg, .budgetsidenav a:hover, .pmsidenav a:hover
+	{
+	background: #f9f9f9;
+	color: black !important;
+	text-decoration: none !important;
+}
+
+.sidenav1 .closebtn1, .budgetsidenav .closebtn1, .pmsidenav .closebtn1 {
+	position: absolute;
+	top: 0;
+	right: 25px;
+	font-size: 36px;
+	margin-left: 50px;
+}
+
+.jssort01 div:nth-child(2) div {
+	left: -20px !important;
+	top: 7px !important;
+}
+
+.jssort01 div:nth-child(2) div:nth-child(3) {
+	left: 47px !important;
+}
+
+.jssort01 {
+	background-color: #d4d4d5;
+	bottom: -99px !important;
+	/** Change from -67px to -99px 15th Sep (NehaD)**/
+}
+
+.pav div button {
+	background-color: #6eaee5 !important;
+	color: white !important;
+	-webkit-border-radius: 0px !important;
+	text-align: center !important;
+}
+/** Added on 15th sep version start**/
+.head {
+	margin-top: -28px;
+	margin-left: -45px;
+	width: 949px !important;
+	background-color: #6eaee5 !important;
+	height: 30px;
+	padding-top: 5px;
+	padding-left: 13px;
+	text-align: left;
+	color: white;
+}
+/** Added on 15th sep version end**/
+/* goals details */
+.jssora05l, .jssora05r {
+	display: block;
+	position: absolute;
+	/* size of arrow element */
+	width: 40px;
+	height: 40px;
+	cursor: pointer;
+	/*background: url('assets/images/a17.jpg') no-repeat;*/
+	overflow: hidden;
+}
+
+.jssora05l {
+	background-position: -10px -40px;
+}
+
+.jssora05r {
+	background-position: -70px -40px;
+}
+
+.jssora05l:hover {
+	background-position: -130px -40px;
+}
+
+.jssora05r:hover {
+	background-position: -190px -40px;
+}
+
+.jssora05l.jssora05ldn {
+	background-position: -250px -40px;
+}
+
+.jssora05r.jssora05rdn {
+	background-position: -310px -40px;
+}
+
+.jssora05l.jssora05lds {
+	background-position: -10px -40px;
+	opacity: .3;
+	pointer-events: none;
+}
+
+.jssora05r.jssora05rds {
+	background-position: -70px -40px;
+	opacity: .3;
+	pointer-events: none;
+}
+/* jssor slider thumbnail navigator skin 01 css */
+/*.jssort01 .p            (normal).jssort01 .p:hover      (normal mouseover).jssort01 .p.pav        (active).jssort01 .p.pdn        (mousedown)*/
+.jssort01 .p {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 250px;
+	text-align: center;
+	height: 72px;
+}
+
+.jssort01 .t {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+.jssort01 .w {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.jssort01 .c {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+	box-sizing: content-box;
+	background: url('img/t01.png') -800px -800px no-repeat;
+	_background: none;
+}
+
+.jssort01 .pav .c {
+	top: 2px;
+	_top: 0px;
+	left: 2px;
+	_left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 0px solid;
+	_border: #fff 2px solid;
+	background-position: 50% 50%;
+}
+
+.jssort01 .p:hover .c {
+	top: 0px;
+	left: 0px;
+	width: 70px;
+	height: 70px;
+	border: #fff 1px solid;
+	background-position: 50% 50%;
+}
+
+.jssort01 .p.pdn .c {
+	background-position: 50% 50%;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+}
+
+* html .jssort01 .c, * html .jssort01 .pdn .c, * html .jssort01 .pav .c
+	{ /* ie quirks mode adjust */
+	width /**/: 72px;
+	height /**/: 72px;
+}
+/* Individual pages */
+/*Amount Needed */
+#jssor_4, #jssor_1, #jssor_2, #jssor_9, #jssor_3, #jssor_5, #jssor_6,
+	#jssor_7, #jssor_, #jssor_10, #jssor_11, #jssor_12, #jssor_13,
+	#jssor_14, #jssor_15, #jssor_16, #jssor_17, #jssor_18, #jssor_8,
+	#jssor_20, #jssor_21, #jssor_22, #jssor_23, #jssor_24 {
+	height: 456px;
+	position: relative;
+	margin: 0 auto;
+	top: 34px;
+	left: -7px;
+	width: 878px;
+	overflow: hidden;
+	visibility: hidden;
+	background-color: #fff;
+} /** Modified  on 15th sep version (NehaD)**/
+.jssort01 div:nth-child(2), .jssort05 div:nth-child(2), .jssort07 div:nth-child(2)
+	{
+	visibility: hidden;
+}
+
+.jssort04, .jssort01 {
+	background-color: #d4d4d5;
+	position: absolute;
+	left: -79px;
+	bottom: -24px;
+	width: 958px;
+	height: 73px;
+	margin-top: 14px;
+}
+
+.jssort04 .p {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 250px;
+	text-align: center;
+	height: 72px;
+}
+
+.jssort04 .t {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+.jssort04 .w {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.jssort04 .c {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+	box-sizing: content-box;
+	background: url('img/t01.png') -800px -800px no-repeat;
+	_background: none;
+}
+
+.jssort04 .pav .c {
+	top: 2px;
+	_top: 0px;
+	left: 2px;
+	_left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 0px solid;
+	_border: #fff 2px solid;
+	background-position: 50% 50%;
+}
+
+.jssort04 .p:hover .c {
+	top: 0px;
+	left: 0px;
+	width: 70px;
+	height: 70px;
+	border: #fff 1px solid;
+	background-position: 50% 50%;
+}
+
+.jssort04 .p.pdn .c {
+	background-position: 50% 50%;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+}
+
+* html .jssort04 .c, * html .jssort04 .pdn .c, * html .jssort04 .pav .c
+	{ /* ie quirks mode adjust */
+	width /**/: 72px;
+	height /**/: 72px;
+}
+/* golas input */
+.jssort07 {
+	background-color: #d4d4d5;
+}
+
+.jssort07 .p {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 250px;
+	text-align: center;
+	height: 72px;
+}
+
+.jssort07 .t {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+.jssort07 .w {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.jssort07 .c {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+	box-sizing: content-box;
+	background: url('img/t01.png') -800px -800px no-repeat;
+	_background: none;
+}
+
+#jssor_7 {
+	background-color: white !important;
+	position: relative;
+	margin: 0 auto;
+	left: -7px;
+	width: 878px;
+	overflow: hidden;
+	visibility: hidden;
+	background-color: #fff;
+}
+
+.jssort07 .pav .c {
+	top: 2px;
+	_top: 0px;
+	left: 2px;
+	_left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 0px solid;
+	_border: #fff 2px solid;
+	background-position: 50% 50%;
+}
+
+.jssort07 .p:hover .c {
+	top: 0px;
+	left: 0px;
+	width: 70px;
+	height: 70px;
+	border: #fff 1px solid;
+	background-position: 50% 50%;
+}
+
+.jssort07 .p.pdn .c {
+	background-position: 50% 50%;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+}
+
+* html .jssort07 .c, * html .jssort07 .pdn .c, * html .jssort07 .pav .c
+	{ /* ie quirks mode adjust */
+	width /**/: 72px;
+	height /**/: 72px;
+}
+/*productrecommended*/
+.overflowy {
+	overflow-y: scroll !important;
+}
+
+.marginleft124 {
+	margin-left: 309px !important;
+}
+
+.marginleft1051 {
+	margin-left: 1461px !important;
+}
+
+#jssor_5 div div div:nth-child(2) {
+	overflow: visible !important;
+}
+
+.width1000 {
+	width: 1210px !important;
+	margin-top: -2px !important;
+	left: -305px !important;
+	height: 777px !important;
+}
+
+#jssor_5, #jssor_18 {
+	background-color: white !important;
+}
+/*yearlycashflow*/
+.highcharts-legend g:nth-child(3), .displaynone {
+	display: none;
+}
+
+.highcharts-legend g g g:nth-child(3) {
+	display: block;
+}
+
+.jssort06>div {
+	cursor: default;
+	width: 500% !important;
+	left: 99px !important;
+}
+
+.jssort06 {
+	background-color: #d4d4d5;
+	position: absolute;
+	left: 0px;
+	bottom: -44px;
+	width: 958px;
+	height: 100px;
+}
+
+.jssort06 .p {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 250px;
+	text-align: center;
+	height: 72px;
+}
+
+.jssort06 .t {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+.jssort06 .w {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.jssort06 .c {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+	box-sizing: content-box;
+	background: url('img/t01.png') -800px -800px no-repeat;
+	_background: none;
+}
+
+.jssort06 .pav .c {
+	top: 2px;
+	_top: 0px;
+	left: 2px;
+	_left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 0px solid;
+	_border: #fff 2px solid;
+	background-position: 50% 50%;
+}
+
+.jssort06 .p:hover .c {
+	top: 0px;
+	left: 0px;
+	width: 70px;
+	height: 70px;
+	border: #fff 1px solid;
+	background-position: 50% 50%;
+}
+
+.jssort06 .p.pdn .c {
+	background-position: 50% 50%;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+}
+
+* html .jssort06 .c, * html .jssort06 .pdn .c, * html .jssort06 .pav .c
+	{ /* ie quirks mode adjust */
+	width /**/: 72px;
+	height /**/: 72px;
+}
+/*glidpath*/
+.jssort08 .p {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 250px;
+	text-align: center;
+	height: 72px;
+}
+
+.jssort08 .t {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+.jssort08 .w {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.jssort08 .c {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+	box-sizing: content-box;
+	background: url('img/t01.png') -800px -800px no-repeat;
+	_background: none;
+}
+
+.jssort08 .pav .c {
+	top: 2px;
+	_top: 0px;
+	left: 2px;
+	_left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 0px solid;
+	_border: #fff 2px solid;
+	background-position: 50% 50%;
+}
+
+.jssort08 .p:hover .c {
+	top: 0px;
+	left: 0px;
+	width: 70px;
+	height: 70px;
+	border: #fff 1px solid;
+	background-position: 50% 50%;
+}
+
+.jssort08 .p.pdn .c {
+	background-position: 50% 50%;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+}
+
+* html .jssort08 .c, * html .jssort08 .pdn .c, * html .jssort08 .pav .c
+	{ /* ie quirks mode adjust */
+	width /**/: 72px;
+	height /**/: 72px;
+}
+/*nonglidpath*/
+.jssort08 {
+	bottom: -169px !important;
+	width: 930px !important;
+	left: -84px !important;
+	position: absolute;
+	bottom: 0px;
+	height: 100px;
+}
+/**Modified By Neha On 26th Oct **/
+.jssort08>div {
+	cursor: default;
+	width: 500% !important;
+	left: 12px !important;
+	!
+	important;
+}
+
+.jssort08 .p>div>button {
+	margin-left: 82px !important;
+	margin-right: 39px;
+	width: 140px;
+	height: 43px;
+	border-radius: unset;
+	text-align: center;
+}
+
+.jssort08 div:nth-child(2) div:nth-child(5)>div {
+	margin-left: -82px !important;
+}
+
+.jssort08 div:nth-child(2) div:nth-child(5) {
+	/*left:-24px !important;*/
+	float: right;
+	margin-left: -24px;
+}
+
+.jssort08 div:nth-child(2) div:nth-child(4) {
+	left: 9px;
+}
+
+.jssort08 div:nth-child(2) div:nth-child(6) {
+	left: -197px !important;
+}
+
+.jssort08 div:nth-child(2) div:nth-child(3)>div {
+	margin-left: 26px !important;
+}
+
+.jssort08 div:nth-child(2) div:nth-child(3) {
+	margin-left: 38px !important;
+}
+
+.jssort08 div:nth-child(2) div:nth-child(2) {
+	left: 23px !important;
+	width: 358px !important;
+}
+
+.jssort08 div:nth-child(2) div:nth-child(2)>div {
+	left: 122px !important;
+}
+
+.jssort08 div:nth-child(2) div:nth-child(4)>div {
+	margin-left: -31px !important;
+}
+/*jssor10*/
+.jssort10 .p { /*position: absolute;*/
+	top: 0;
+	left: 0;
+	width: 250px;
+	text-align: center;
+	height: 72px;
+}
+
+.jssort10 .t {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+.jssort10 .w {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.jssort10 .c {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+	box-sizing: content-box;
+	background: url('img/t01.png') -800px -800px no-repeat;
+	_background: none;
+}
+
+.jssort10 .pav .c {
+	top: 2px;
+	_top: 0px;
+	left: 2px;
+	_left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 0px solid;
+	_border: #fff 2px solid;
+	background-position: 50% 50%;
+}
+
+.jssort10 .p:hover .c {
+	top: 0px;
+	left: 0px;
+	width: 70px;
+	height: 70px;
+	border: #fff 1px solid;
+	background-position: 50% 50%;
+}
+
+.jssort10 .p.pdn .c {
+	background-position: 50% 50%;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+}
+
+* html .jssort10 .c, * html .jssort10 .pdn .c, * html .jssort10 .pav .c
+	{ /* ie quirks mode adjust */
+	width /**/: 72px;
+	height /**/: 72px;
+}
+/** Added on 15th sep version (NehaD) Start **/
+.jssort24 .p {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 250px;
+	text-align: center;
+	height: 72px;
+}
+
+.jssort24 .t {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+.jssort24 .w {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.jssort24 .c {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+	box-sizing: content-box;
+	background: url('img/t01.png') -800px -800px no-repeat;
+	_background: none;
+}
+
+.jssort24 .pav .c {
+	top: 2px;
+	_top: 0px;
+	left: 2px;
+	_left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 0px solid;
+	_border: #fff 2px solid;
+	background-position: 50% 50%;
+}
+
+.jssort24 .p:hover .c {
+	top: 0px;
+	left: 0px;
+	width: 70px;
+	height: 70px;
+	border: #fff 1px solid;
+	background-position: 50% 50%;
+}
+
+.jssort24 .p.pdn .c {
+	background-position: 50% 50%;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+}
+
+* html .jssort24 .c, * html .jssort24 .pdn .c, * html .jssort24 .pav .c
+	{ /* ie quirks mode adjust */
+	width /**/: 72px;
+	height /**/: 72px;
+}
+
+.jssort21 .p {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 250px;
+	text-align: center;
+	height: 72px;
+}
+
+.jssort21 .t {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+.jssort21 .w {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.jssort21 .c {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+	box-sizing: content-box;
+	background: url('img/t01.png') -800px -800px no-repeat;
+	_background: none;
+}
+
+.jssort21 .pav .c {
+	top: 2px;
+	_top: 0px;
+	left: 2px;
+	_left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 0px solid;
+	_border: #fff 2px solid;
+	background-position: 50% 50%;
+}
+
+.jssort21 .p:hover .c {
+	top: 0px;
+	left: 0px;
+	width: 70px;
+	height: 70px;
+	border: #fff 1px solid;
+	background-position: 50% 50%;
+}
+
+.jssort21 .p.pdn .c {
+	background-position: 50% 50%;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+}
+
+* html .jssort21 .c, * html .jssort21 .pdn .c, * html .jssort21 .pav .c
+	{ /* ie quirks mode adjust */
+	width /**/: 72px;
+	height /**/: 72px;
+}
+
+.jssort22 .p {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 250px;
+	text-align: center;
+	height: 72px;
+}
+
+.jssort22 .t {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+.jssort22 .w {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.jssort22 .c {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+	box-sizing: content-box;
+	background: url('img/t01.png') -800px -800px no-repeat;
+	_background: none;
+}
+
+.jssort22 .pav .c {
+	top: 2px;
+	_top: 0px;
+	left: 2px;
+	_left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 0px solid;
+	_border: #fff 2px solid;
+	background-position: 50% 50%;
+}
+
+.jssort22 .p:hover .c {
+	top: 0px;
+	left: 0px;
+	width: 70px;
+	height: 70px;
+	border: #fff 1px solid;
+	background-position: 50% 50%;
+}
+
+.jssort22 .p.pdn .c {
+	background-position: 50% 50%;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+}
+
+* html .jssort22 .c, * html .jssort22 .pdn .c, * html .jssort22 .pav .c
+	{ /* ie quirks mode adjust */
+	width /**/: 72px;
+	height /**/: 72px;
+}
+
+.jssort23 .p {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 250px;
+	text-align: center;
+	height: 72px;
+}
+
+.jssort23 .t {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+.jssort23 .w {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.jssort23 .c {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+	box-sizing: content-box;
+	background: url('img/t01.png') -800px -800px no-repeat;
+	_background: none;
+}
+
+.jssort23 .pav .c {
+	top: 2px;
+	_top: 0px;
+	left: 2px;
+	_left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 0px solid;
+	_border: #fff 2px solid;
+	background-position: 50% 50%;
+}
+
+.jssort23 .p:hover .c {
+	top: 0px;
+	left: 0px;
+	width: 70px;
+	height: 70px;
+	border: #fff 1px solid;
+	background-position: 50% 50%;
+}
+
+.jssort23 .p.pdn .c {
+	background-position: 50% 50%;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+}
+
+* html .jssort23 .c, * html .jssort23 .pdn .c, * html .jssort23 .pav .c
+	{ /* ie quirks mode adjust */
+	width /**/: 72px;
+	height /**/: 72px;
+}
+/** Added on 15th sep version (NehaD) end **/
+#jssor_10, #jssor_21, #jssor_22, #jssor_23, #jssor_24
+	/** Modified on 15th Sep version (NehaD)**/ {
+	overflow: initial !important;
+	height: 457px !important;
+}
+
+.jssort10, .jssort21, .jssort22, .jssort23, .jssort24 {
+	/** Modified on 15th Sep version (NehaD)**/
+	bottom: -122px !important;
+	/* width: 930px !important;*/
+	left: -84px !important;
+	position: absolute;
+	bottom: 0px;
+	height: 100px;
+}
+
+.jssort21>div, .jssort24>div {
+	/** Modified on 15th Sep version (NehaD)**/
+	cursor: default;
+	left: 38px !important;
+	top: 15px !important;
+}
+
+.jssort10>div {
+	cursor: default;
+	left: 65px !important;
+	top: 15px !important;
+}
+
+.jssort22>div, .jssort23>div { /** added on 15th Sep version (NehaD)**/
+	cursor: default;
+	left: 76px !important;
+	top: 15px !important;
+}
+
+.jssort10 .p>div>button, .jssort21 .p>div>button, .jssort24 .p>div>button
+	{ /** Modified on 15th Sep version (NehaD)**/
+	margin-left: 82px !important;
+	margin-right: 39px;
+	width: 140px;
+	height: 43px;
+	border-radius: unset;
+	text-align: center;
+}
+/* added by neha 24th oct */
+.jssort10 div:nth-child(2) div:nth-child(4) {
+	margin-left: -10px !important;
+}
+/** Modified on 15th Sep version (NehaD) start**/
+.jssort10 div:nth-child(2) div:nth-child(5)>div, .jssort21 div:nth-child(2) div:nth-child(5)>div
+	{
+	margin-left: -82px !important;
+}
+
+.jssort10 div:nth-child(2) div:nth-child(5), .jssort21 div:nth-child(2) div:nth-child(5)
+	{
+	margin-left: -71px !important;
+}
+
+.jssort10 div:nth-child(2) div:nth-child(4), .jssort21 div:nth-child(2) div:nth-child(4)
+	{
+	/*left:9px !important;*/
+	
+}
+
+.jssort10 div:nth-child(2) div:nth-child(6), .jssort21 div:nth-child(2) div:nth-child(6)
+	{
+	left: -197px !important;
+}
+
+.jssort21 div:nth-child(2) div:nth-child(3)>div, .jssort24 div:nth-child(2) div:nth-child(3)>div
+	{
+	margin-left: 8px !important;
+}
+/* modify by neha on 24th oct */
+.jssort10 div:nth-child(2) div:nth-child(3)>div {
+	margin-left: -73px !important;
+}
+
+.jssort10 div:nth-child(2) div:nth-child(3), .jssort21 div:nth-child(2) div:nth-child(3),
+	.jssort22 div:nth-child(2) div:nth-child(3), .jssort24 div:nth-child(2) div:nth-child(3)
+	{
+	margin-left: 38px !important;
+}
+
+.jssort10 div:nth-child(2) div:nth-child(2), .jssort21 div:nth-child(2) div:nth-child(2),
+	.jssort22 div:nth-child(2) div:nth-child(2), 
+	.jssort24 div:nth-child(2) div:nth-child(2) {
+	left: 23px !important;
+	width: 358px !important;
+}
+/**Addition Of Code By Neha D **/
+.jssort23 div:nth-child(2) div:nth-child(2){
+	
+	margin-left: -8em !important;
+	width: 358px !important;
+	
+}
+.jssort23 div:nth-child(2) div:nth-child(3){
+	
+	margin-left: -9em !important;
+	width: 358px !important;
+	
+}
+.jssort23 div:nth-child(2) div:nth-child(4){
+	
+	margin-left: -9em !important;
+	width: 358px !important;
+	
+}
+.jssort23 div:nth-child(2) div:nth-child(5){
+	
+	margin-left: -19em !important;
+	width: 358px !important;
+	
+}
+.jssort23 div:nth-child(2) div:nth-child(6){
+	
+	margin-left: -24em !important;
+	width: 358px !important;
+	
+}
+.jssort23 div:nth-child(2) div:nth-child(7){
+	
+	margin-left: -29em !important;
+	width: 358px !important;
+	
+}
+.jssort23 div:nth-child(2) div:nth-child(8){
+	
+	margin-left: -34em !important;
+	width: 358px !important;
+	
+}
+.jssort23 div:nth-child(2) div:nth-child(9){
+	
+	margin-left: -39em !important;
+	width: 358px !important;
+	
+}
+/**End Of Addition Of Code By Neha D **/
+
+.jssort10 div:nth-child(2) div:nth-child(2)>div, .jssort21 div:nth-child(2) div:nth-child(2)>div,
+	.jssort22 div:nth-child(2) div:nth-child(2)>div, .jssort24 div:nth-child(2) div:nth-child(2)>div
+	{
+	left: 122px !important;
+}
+
+.jssort23 div:nth-child(2) div:nth-child(2)>div {
+	left: 63px !important;
+}
+
+.jssort21 div:nth-child(2) div:nth-child(4)>div, .jssort24 div:nth-child(2) div:nth-child(4)>div
+	{
+	margin-left: -54px !important;
+}
+
+/*modify on 23th oct neha */
+.jssort10 div:nth-child(2) div:nth-child(4)>div {
+	margin-left: -83px;
+}
+
+.jssort22 div:nth-child(2) div:nth-child(4)>div, .jssort23 div:nth-child(2) div:nth-child(4)>div
+	{
+	margin-left: -69px !important;
+}
+/** Modified on 15th Sep version (NehaD) End**/
+/*jssor11*/
+.jssort11 .p {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 250px;
+	text-align: center;
+	height: 72px;
+}
+
+.jssort11 .t {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+.jssort11 .w {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.jssort11 .c {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+	box-sizing: content-box;
+	background: url('img/t01.png') -800px -800px no-repeat;
+	_background: none;
+}
+
+.jssort11 .pav .c {
+	top: 2px;
+	_top: 0px;
+	left: 2px;
+	_left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 0px solid;
+	_border: #fff 2px solid;
+	background-position: 50% 50%;
+}
+
+.jssort11 .p:hover .c {
+	top: 0px;
+	left: 0px;
+	width: 70px;
+	height: 70px;
+	border: #fff 1px solid;
+	background-position: 50% 50%;
+}
+
+.jssort11 .p.pdn .c {
+	background-position: 50% 50%;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+}
+
+* html .jssort11 .c, * html .jssort11 .pdn .c, * html .jssort11 .pav .c
+	{ /* ie quirks mode adjust */
+	width /**/: 72px;
+	height /**/: 72px;
+}
+/*nonglidpath*/
+/*jssor20*/
+.jssort20 .p {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 250px;
+	text-align: center;
+	height: 72px;
+}
+
+.jssort20 .t {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+.jssort20 .w {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.jssort20 .c {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+	box-sizing: content-box;
+	background: url('img/t01.png') -800px -800px no-repeat;
+	_background: none;
+}
+
+.jssort20 .pav .c {
+	top: 2px;
+	_top: 0px;
+	left: 2px;
+	_left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 0px solid;
+	_border: #fff 2px solid;
+	background-position: 50% 50%;
+}
+
+.jssort20 .p:hover .c {
+	top: 0px;
+	left: 0px;
+	width: 70px;
+	height: 70px;
+	border: #fff 1px solid;
+	background-position: 50% 50%;
+}
+
+.jssort20 .p.pdn .c {
+	background-position: 50% 50%;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+}
+
+* html .jssort20 .c, * html .jssort20 .pdn .c, * html .jssort20 .pav .c
+	{ /* ie quirks mode adjust */
+	width /**/: 72px;
+	height /**/: 72px;
+}
+
+#jssor_11 {
+	overflow: initial !important;
+	height: 457px;
+	visibility: visible !important;
+}
+
+.jssort11 {
+	bottom: -122px !important;
+	width: 930px !important;
+	left: -21px !important; /**Modify on 15th sep version **/
+	position: absolute;
+	bottom: 0px;
+	height: 100px;
+}
+
+.jssort11>div {
+	/*modify left on 23 oct by neha */
+	cursor: default;
+	width: 500% !important;
+	left: 3px !important; /**Modify on 15th sep version **/
+	top: 15px !important;;
+}
+
+.jssort11 .p>div>button {
+	margin-left: 82px !important;
+	margin-right: 39px;
+	width: 152px;
+	height: 43px;
+	border-radius: unset;
+	text-align: center;
+}
+
+.jssort11 div:nth-child(2) div:nth-child(5)>div {
+	margin-left: -82px !important;
+}
+
+.jssort11 div:nth-child(2) div:nth-child(5) {
+	margin-left: -191px !important;
+}
+
+.jssort11 div:nth-child(2) div:nth-child(4) {
+	/*left:-17px !important;*/ /*modify on 23rd oct neha*/
+	margin-left: -125px;
+}
+
+.jssort11 div:nth-child(2) div:nth-child(6) {
+	/**Modified by Neha on 26thOct **/
+	/**left:-197px !important;**/
+	/***Modified by Neha on 26th Oct**/
+	left: -351px !important;
+}
+
+.jssort11 div:nth-child(2) div:nth-child(3)>div {
+	/*margin-left:-82px !important;*Modified by Neha on 26thOct*/
+	margin-left: -42px !important;
+}
+
+#idexpensesummary svg { /* modify on 26th oct neha */
+	margin-left: 127px;
+	width: 300px;
+	margin-top: -73px;
+}
+#idexpensesummary{
+	
+	margin-top: 11px;
+	
+}
+
+.jssort11 div:nth-child(2) div:nth-child(3) {
+	margin-left: -85px !important;
+}
+
+.jssort11 div:nth-child(2) div:nth-child(2) {
+	/********Modified By Neha on 26th Oct****/
+	/* left: 23px !important;
+    width: 358px !important; */
+	left: -12px !important;
+	width: 200px !important;
+	/********Modified By Neha End on 26th Oct****/
+}
+
+.jssort11 div:nth-child(2) div:nth-child(2)>div {
+	left: -35px !important;
+}
+
+.jssort11 div:nth-child(2) div:nth-child(4)>div {
+	/********Modified By Neha on 26th Oct****/
+	/**margin-left:-81px !important;**/
+	left: -77px !important;
+	/********Modified By Neha End on 26th Oct****/
+}
+/*jssor11 end*/
+/*jssor12*/
+.jssort12 .p {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 250px;
+	text-align: center;
+	height: 72px;
+}
+
+.jssort12 .t {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+.jssort12 .w {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.jssort12 .c {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+	box-sizing: content-box;
+	background: url('img/t01.png') -800px -800px no-repeat;
+	_background: none;
+}
+
+.jssort12 .pav .c {
+	top: 2px;
+	_top: 0px;
+	left: 2px;
+	_left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 0px solid;
+	_border: #fff 2px solid;
+	background-position: 50% 50%;
+}
+
+.jssort12 .p:hover .c {
+	top: 0px;
+	left: 0px;
+	width: 70px;
+	height: 70px;
+	border: #fff 1px solid;
+	background-position: 50% 50%;
+}
+
+.jssort12 .p.pdn .c {
+	background-position: 50% 50%;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+}
+
+* html .jssort12 .c, * html .jssort12 .pdn .c, * html .jssort12 .pav .c
+	{ /* ie quirks mode adjust */
+	width /**/: 72px;
+	height /**/: 72px;
+}
+/*nonglidpath*/
+#jssor_12 {
+	overflow: initial !important;
+	height: 457px;
+	visibility: visible !important;
+}
+
+.jssort12 {
+	bottom: -122px !important;
+	width: 930px !important;
+	left: -84px !important;
+	position: absolute;
+	bottom: 0px;
+	height: 100px;
+}
+
+.jssort12>div {
+	/*modift by neha on 23rd oct */
+	cursor: default;
+	width: 500% !important;
+	left: 124px !important;
+	top: 15px !important;
+}
+
+.jssort12 .p>div>button {
+	margin-left: 82px !important;
+	margin-right: 39px;
+	width: 148px;
+	height: 43px;
+	border-radius: unset;
+	text-align: center;
+}
+
+.jssort12 div:nth-child(2) div:nth-child(5)>div {
+	margin-left: -82px !important;
+}
+
+.jssort12 div:nth-child(2) div:nth-child(5) {
+	left: -27px !important;
+}
+
+.jssort12 div:nth-child(2) div:nth-child(4) {
+	/*left:9px !important;*/
+	
+}
+
+.jssort12 div:nth-child(2) div:nth-child(6) {
+	left: -197px !important;
+}
+
+.jssort12 div:nth-child(2) div:nth-child(3)>div {
+	margin-left: 19px !important;
+}
+
+.jssort12 div:nth-child(2) div:nth-child(3) {
+	margin-left: 38px !important;
+}
+
+.jssort12 div:nth-child(2) div:nth-child(2) {
+	left: 23px !important;
+	width: 358px !important;
+}
+
+.jssort12 div:nth-child(2) div:nth-child(2)>div {
+	left: 40px !important; /*modify on 23rd oct by neha*/
+}
+
+.jssort12 div:nth-child(2) div:nth-child(4)>div {
+	margin-left: -31px !important;
+}
+/*jssor12 end*/
+/*jssor13*/
+.jssort13 .p {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 250px;
+	text-align: center;
+	height: 72px;
+}
+
+.jssort13 .t {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+.jssort13 .w {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.jssort13 .c {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+	box-sizing: content-box;
+	background: url('img/t01.png') -800px -800px no-repeat;
+	_background: none;
+}
+
+.jssort13 .pav .c {
+	top: 2px;
+	_top: 0px;
+	left: 2px;
+	_left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 0px solid;
+	_border: #fff 2px solid;
+	background-position: 50% 50%;
+}
+
+.jssort13 .p:hover .c {
+	top: 0px;
+	left: 0px;
+	width: 70px;
+	height: 70px;
+	border: #fff 1px solid;
+	background-position: 50% 50%;
+}
+
+.jssort13 .p.pdn .c {
+	background-position: 50% 50%;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+}
+
+* html .jssort13 .c, * html .jssort13 .pdn .c, * html .jssort13 .pav .c
+	{ /* ie quirks mode adjust */
+	width /**/: 72px;
+	height /**/: 72px;
+}
+/*nonglidpath*/
+#jssor_13 {
+	overflow: initial !important;
+	height: 457px;
+	visibility: visible !important;
+}
+
+.jssort13 {
+	bottom: -139px !important;
+	width: 930px !important;
+	left: -84px !important;
+	position: absolute;
+	bottom: 0px;
+	height: 100px;
+}
+
+.jssort13>div {
+	/*modify left on 23rd oct by neha*/
+	cursor: default;
+	width: 500% !important;
+	left: 68px !important;
+}
+
+.jssort13 .p>div>button {
+	margin-left: 82px !important;
+	margin-right: 39px;
+	width: 140px;
+	height: 43px;
+	border-radius: unset;
+	text-align: center;
+}
+
+.jssort13 div:nth-child(2) div:nth-child(5)>div {
+	margin-left: -82px !important;
+}
+
+.jssort13 div:nth-child(2) div:nth-child(5) {
+	margin-left: -81px; /*modify on 23rd oct by neha */
+}
+
+.jssort13 div:nth-child(2) div:nth-child(4) {
+	margin-left: -66px; /*modify on 30th oct by neha*/
+}
+
+.jssort13 div:nth-child(2) div:nth-child(6) {
+	left: -197px !important;
+}
+
+.jssort13 div:nth-child(2) div:nth-child(3)>div {
+	margin-left: -80px !important;
+}
+
+.jssort13 div:nth-child(2) div:nth-child(3) {
+	margin-left: 38px !important;
+}
+
+.jssort13 div:nth-child(2) div:nth-child(2) {
+	left: 23px !important;
+	width: 358px !important;
+}
+
+.jssort13 div:nth-child(2) div:nth-child(2)>div {
+	left: -1px !important;
+}
+
+.jssort13 div:nth-child(2) div:nth-child(4)>div {
+	margin-left: -40px !important;
+}
+/*jssor13 end*/
+/*jssor14 start */
+.jssort14 .p {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 250px;
+	text-align: center;
+	height: 72px;
+}
+
+.jssort14 .t {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+.jssort14 .w {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.jssort14 .c {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+	box-sizing: content-box;
+	background: url('img/t01.png') -800px -800px no-repeat;
+	_background: none;
+}
+
+.jssort14 .pav .c {
+	top: 2px;
+	_top: 0px;
+	left: 2px;
+	_left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 0px solid;
+	_border: #fff 2px solid;
+	background-position: 50% 50%;
+}
+
+.jssort14 .p:hover .c {
+	top: 0px;
+	left: 0px;
+	width: 70px;
+	height: 70px;
+	border: #fff 1px solid;
+	background-position: 50% 50%;
+}
+
+.jssort14 .p.pdn .c {
+	background-position: 50% 50%;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+}
+
+* html .jssort14 .c, * html .jssort14 .pdn .c, * html .jssort14 .pav .c
+	{ /* ie quirks mode adjust */
+	width /**/: 72px;
+	height /**/: 72px;
+}
+/*nonglidpath*/
+#jssor_14, #jssor_20 {
+	overflow: initial !important;
+	height: 450px;
+	visibility: visible !important;
+}
+
+.jssort14 {
+	bottom: -134px !important;
+	width: 930px !important;
+	left: -54px !important;
+	position: absolute;
+	bottom: 0px;
+	height: 100px;
+}
+
+.jssort20 {
+	bottom: -134px !important;
+	width: 930px !important;
+	left: -17px !important;
+	position: absolute;
+	bottom: 0px;
+	height: 100px;
+}
+
+.jssort14>div {
+	/*modify on 23rd oct neha*/
+	cursor: default;
+	left: 68px !important;
+}
+
+.jssort20>div {
+	cursor: default;
+	left: 38px !important;
+	width: 544px !important;
+}
+
+.jssort14 .p>div>button, .jssort20 .p>div>button, .jssort22 .p>div>button,
+	.jssort23 .p>div>button { /**Modify on 15th sep version **/
+	margin-left: 82px !important;
+	margin-right: 39px;
+	width: 140px;
+	height: 43px;
+	border-radius: unset;
+	text-align: center;
+}
+
+.jssort14 div:nth-child(2) div:nth-child(5)>div, .jssort20 div:nth-child(2) div:nth-child(5)>div
+	{
+	margin-left: -82px !important;
+}
+
+.jssort14 div:nth-child(2) div:nth-child(5), .jssort20 div:nth-child(2) div:nth-child(5)
+	{
+	left: -27px !important;
+}
+
+.jssort14 div:nth-child(2) div:nth-child(4) {
+	/*left:9px !important;*/
+	
+}
+
+.jssort14 div:nth-child(2) div:nth-child(6), .jssort20 div:nth-child(2) div:nth-child(6)
+	{
+	left: -197px !important;
+}
+
+.jssort20 div:nth-child(2) div:nth-child(3)>div {
+	/*modify on 23rd oct neha*/
+	margin-left: 26px !important;
+}
+
+.jssort14 div:nth-child(2) div:nth-child(3)>div {
+	margin-left: -25px !important; /*modify on 23rd oct neha*/
+}
+
+.jssort14 div:nth-child(2) div:nth-child(3), .jssort20 div:nth-child(2) div:nth-child(3)
+	{
+	margin-left: 38px !important;
+}
+
+.jssort14 div:nth-child(2) div:nth-child(2), .jssort20 div:nth-child(2) div:nth-child(2)
+	{
+	left: 23px !important;
+	width: 358px !important;
+}
+
+.jssort20 div:nth-child(2) div:nth-child(2)>div {
+	left: 122px !important; /*modify on 23rd oct by neha*/
+}
+
+/*added on 23rd oct by neha*/
+.jssort14 div:nth-child(2) div:nth-child(2)>div {
+	left: 52px !important;
+}
+
+.jssort20 div:nth-child(2) div:nth-child(4)>div {
+	/*modify on 23rd oct neha*/
+	margin-left: -31px !important;
+}
+
+.jssort14 div:nth-child(2) div:nth-child(4)>div {
+	/*modify on 23rd oct neha*/
+	margin-left: -51px !important;
+}
+/*jssor14 end */
+/*jssor15*/
+.jssort15 .p {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 250px;
+	text-align: center;
+	height: 72px;
+}
+
+.jssort15 .t {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+.jssort15 .w {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.jssort15 .c {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+	box-sizing: content-box;
+	background: url('img/t01.png') -800px -800px no-repeat;
+	_background: none;
+}
+
+.jssort15 .pav .c {
+	top: 2px;
+	_top: 0px;
+	left: 2px;
+	_left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 0px solid;
+	_border: #fff 2px solid;
+	background-position: 50% 50%;
+}
+
+.jssort15 .p:hover .c {
+	top: 0px;
+	left: 0px;
+	width: 70px;
+	height: 70px;
+	border: #fff 1px solid;
+	background-position: 50% 50%;
+}
+
+.jssort15 .p.pdn .c {
+	background-position: 50% 50%;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+}
+
+* html .jssort15 .c, * html .jssort15 .pdn .c, * html .jssort15 .pav .c
+	{ /* ie quirks mode adjust */
+	width /**/: 72px;
+	height /**/: 72px;
+}
+/*nonglidpath*/
+#jssor_15 {
+	overflow: initial !important;
+	height: 409px;
+	visibility: visible !important;
+}
+
+.jssort15 {
+	bottom: -98px !important;
+	width: 930px !important;
+	left: -84px !important;
+	position: absolute;
+	bottom: 0px;
+	height: 100px;
+}
+
+.jssort15>div { /**Modify on 23rdoct(NehaD) **/
+	cursor: default;
+	width: 500% !important;
+	left: 68px !important;
+}
+
+.jssort15 .p>div>button {
+	margin-left: 82px !important;
+	margin-right: 39px;
+	width: 140px;
+	height: 43px;
+	border-radius: unset;
+	text-align: center;
+}
+
+.jssort15 div:nth-child(2) div:nth-child(5)>div {
+	margin-left: -82px !important;
+}
+
+.jssort15 div:nth-child(2) div:nth-child(5) {
+	left: -27px !important;
+}
+
+.jssort15 div:nth-child(2) div:nth-child(4) {
+	/**Modify on 15th sep version (NehaD) **/
+	left: 10px !important;
+	width: 364px !important;
+}
+
+.jssort15 div:nth-child(2) div:nth-child(6) {
+	left: -197px !important;
+}
+
+.jssort15 div:nth-child(2) div:nth-child(3)>div {
+	margin-left: -19px !important; /*modify on 23rd oct neha*/
+}
+
+.jssort15 div:nth-child(2) div:nth-child(3) {
+	margin-left: 162px !important;
+	margin-top: 12px;
+}
+
+.jssort15 div:nth-child(2) div:nth-child(2) {
+	left: 72px !important; /*modify on 23rd oct neha*/
+	width: 358px !important;
+	margin-top: 12px;
+}
+
+.jssort15 div:nth-child(2) div:nth-child(2)>div {
+	left: 122px !important;
+}
+
+.jssort15 div:nth-child(2) div:nth-child(4)>div {
+	/**Modify on 15th sep version (NehaD) **/
+	margin-left: 76px !important;
+	margin-top: 12px;
+}
+/*jssor15 end*/
+/*jssor16*/
+.jssort16 .p {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 250px;
+	text-align: center;
+	height: 72px;
+}
+
+.jssort16 .t {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+.jssort16 .w {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.jssort16 .c {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+	box-sizing: content-box;
+	background: url('img/t01.png') -800px -800px no-repeat;
+	_background: none;
+}
+
+.jssort16 .pav .c {
+	top: 2px;
+	_top: 0px;
+	left: 2px;
+	_left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 0px solid;
+	_border: #fff 2px solid;
+	background-position: 50% 50%;
+}
+
+.jssort16 .p:hover .c {
+	top: 0px;
+	left: 0px;
+	width: 70px;
+	height: 70px;
+	border: #fff 1px solid;
+	background-position: 50% 50%;
+}
+
+.jssort16 .p.pdn .c {
+	background-position: 50% 50%;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+}
+
+* html .jssort16 .c, * html .jssort16 .pdn .c, * html .jssort16 .pav .c
+	{ /* ie quirks mode adjust */
+	width /**/: 72px;
+	height /**/: 72px;
+}
+/*nonglidpath*/
+#jssor_16 {
+	overflow: initial !important;
+	height: 409px;
+	visibility: visible !important;
+}
+
+.jssort16 {
+	bottom: -98px !important;
+	width: 930px !important;
+	left: -84px !important;
+	position: absolute;
+	bottom: 0px;
+	height: 100px;
+}
+
+.jssort16>div {
+	cursor: default;
+	width: 500% !important;
+	left: 38px !important;
+}
+
+.jssort16 .p>div>button {
+	display: none;
+	margin-left: 82px !important;
+	margin-right: 39px;
+	width: 140px;
+	height: 43px;
+	border-radius: unset;
+	text-align: center;
+}
+
+.jssort16 div:nth-child(2) div:nth-child(5)>div {
+	margin-left: -82px !important;
+}
+
+.jssort16 div:nth-child(2) div:nth-child(5) {
+	left: -27px !important;
+}
+
+.jssort16 div:nth-child(2) div:nth-child(4) {
+	left: 9px !important;
+}
+
+.jssort16 div:nth-child(2) div:nth-child(6) {
+	left: -197px !important;
+}
+
+.jssort16 div:nth-child(2) div:nth-child(3)>div {
+	margin-left: 26px !important;
+}
+
+.jssort16 div:nth-child(2) div:nth-child(3) {
+	margin-left: 38px !important;
+}
+
+.jssort16 div:nth-child(2) div:nth-child(2) {
+	left: 23px !important;
+	width: 358px !important;
+}
+
+.jssort16 div:nth-child(2) div:nth-child(2)>div {
+	left: 122px !important;
+}
+
+.jssort16 div:nth-child(2) div:nth-child(4)>div {
+	margin-left: -31px !important;
+}
+/*jssor16 end*/
+.jssort09 .p {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 250px;
+	text-align: center;
+	height: 72px;
+}
+
+.jssort09 .t {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+.jssort09 .w {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.jssort09 .c {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+	box-sizing: content-box;
+	background: url('img/t01.png') -800px -800px no-repeat;
+	_background: none;
+}
+
+.jssort09 .pav .c {
+	top: 2px;
+	_top: 0px;
+	left: 2px;
+	_left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 0px solid;
+	_border: #fff 2px solid;
+	background-position: 50% 50%;
+}
+
+.jssort09 .p:hover .c {
+	top: 0px;
+	left: 0px;
+	width: 70px;
+	height: 70px;
+	border: #fff 1px solid;
+	background-position: 50% 50%;
+}
+
+.jssort09 .p.pdn .c {
+	background-position: 50% 50%;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+}
+
+* html .jssort09 .c, * html .jssort09 .pdn .c, * html .jssort09 .pav .c
+	{ /* ie quirks mode adjust */
+	width /**/: 72px;
+	height /**/: 72px;
+}
+
+}
+/* jssor slider arrow navigator skin 05 css */
+/*
+        .jssora05l                  (normal)
+        .jssora05r                  (normal)
+        .jssora05l:hover            (normal mouseover)
+        .jssora05r:hover            (normal mouseover)
+        .jssora05l.jssora05ldn      (mousedown)
+        .jssora05r.jssora05rdn      (mousedown)
+        .jssora05l.jssora05lds      (disabled)
+        .jssora05r.jssora05rds      (disabled)
+        */
+.jssora05l, .jssora05r {
+	display: block;
+	position: absolute;
+	/* size of arrow element */
+	width: 40px;
+	height: 40px;
+	cursor: pointer;
+	background: url('img/a17.png') no-repeat;
+	overflow: hidden;
+}
+
+.jssora05l {
+	background-position: -10px -40px;
+}
+
+.jssora05r {
+	background-position: -70px -40px;
+}
+
+.jssora05l:hover {
+	background-position: -130px -40px;
+}
+
+.jssora05r:hover {
+	background-position: -190px -40px;
+}
+
+.jssora05l.jssora05ldn {
+	background-position: -250px -40px;
+}
+
+.jssora05r.jssora05rdn {
+	background-position: -310px -40px;
+}
+
+.jssora05l.jssora05lds {
+	background-position: -10px -40px;
+	opacity: .3;
+	pointer-events: none;
+}
+
+.jssora05r.jssora05rds {
+	background-position: -70px -40px;
+	opacity: .3;
+	pointer-events: none;
+}
+/* jssor slider thumbnail navigator skin 01 css */
+/*.jssort01 .p            (normal).jssort01 .p:hover      (normal mouseover).jssort01 .p.pav        (active).jssort01 .p.pdn        (mousedown)*/
+.jssort01 .p {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 72px;
+	height: 72px;
+}
+
+.jssort01 .t {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+.jssort01 .w {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.jssort01 .c {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+	box-sizing: content-box;
+	background: url('img/t01.png') -800px -800px no-repeat;
+	_background: none;
+}
+
+.jssort01 .pav .c {
+	top: 2px;
+	_top: 0px;
+	left: 2px;
+	_left: 0px;
+	width: 68px;
+	height: 68px;
+	border: #000 0px solid;
+	_border: #fff 2px solid;
+	background-position: 50% 50%;
+}
+
+.jssort01 .p:hover .c {
+	top: 0px;
+	left: 0px;
+	width: 70px;
+	height: 70px;
+	border: #fff 1px solid;
+	background-position: 50% 50%;
+}
+
+.jssort01 .p.pdn .c {
+	background-position: 50% 50%;
+	width: 68px;
+	height: 68px;
+	border: #000 2px solid;
+}
+
+* html .jssort01 .c, * html .jssort01 .pdn .c, * html .jssort01 .pav .c
+	{ /* ie quirks mode adjust */
+	width /**/: 72px;
+	height /**/: 72px;
+}
+
+.GPHeading+span, #idBudgetHeading+span, #idpmHeading+span, #idfpHeading+span
+	{ /**Modify on 15th sep version (NehaD) **/
+	cursor: pointer;
+	float: right;
+	margin-right: 13px;
+}
+
+#glids a {
+	font-size: 11px;
+	padding-left: 65px;
+}
+/* content */
+table tbody tr:nth-child(odd) td:nth-child(3) table tr, table tbody tr:nth-child(odd) td:nth-child(5) table tr
+	{
+	background-color: #d4d4d5;
+}
+
+table tbody tr:nth-child(even) td:nth-child(3) table tr, table tbody tr:nth-child(even) td:nth-child(5) table tr
+	{
+	background-color: #f9f9f9;
+}
+
+table tr td:nth-child(1) {
+	text-align: left;
+}
+
+.yearlytbl tr td:nth-child(1), .aligncenter {
+	/**Modify on 15th sep version (NehaD) **/
+	text-align: center !important;
+}
+
+table tbody tr td, table  tr th
+	/**Modify on 15th sep version (NehaD) **/ {
+	padding: 5px;
+	word-wrap: break-word;
+	text-align: left;
+}
+
+.leftthead thead tr th, .textalignlft {
+	text-align: left !important;
+}
+
+table thead tr th { /**Modify on 15th sep version (NehaD) **/
+	padding: 5px;
+	word-wrap: break-word;
+	text-align: left;
+}
+/**Modify on 15th sep version (NehaD)  start**/
+table tbody tr:nth-child(odd) {
+	background-color: #d4d4d5;
+}
+
+table tbody tr:nth-child(even) {
+	background-color: #f9f9f9;
+}
+
+table thead tr, .nonglidtotal {
+	color: white !important;
+	background-color: #727276 !important;
+}
+
+.recommendedtbl, .currentincometbl {
+	margin-top: 44px;
+	margin-left: 38px;
+}
+
+/**Modify on 15th sep version (NehaD) end**/
+.margintop24px {
+	margin-top: 24px !important;
+}
+
+.margintop24px tbody tr td:nth-child(2) {
+	text-align: right !important;
+}
+
+.margintop24px tr td:nth-child(1) {
+	width: 41%;
+}
+
+.recommendedtbl	tbody tr td:nth-child(2) {
+	text-align: left;
+}
+
+.jssort04>div {
+	cursor: default;
+	width: 500% !important;
+	left: 38px !important;
+	margin-left: 89px !important;
+}
+
+.jssort04 .p>div>button {
+	height: 37px !important;
+	-webkit-border-radius: 0px !important;
+	text-align: center !important;
+}
+
+.marginlft186 {
+	margin-left: 54px !important;
+}
+/*#jssor_7>div>div div{
+cursor:default;
+position:relative;
+top:19px !important;
+left:0px !important;
+overflow:hidden !important;
+width:800px;
+height:356px !important;
+}
+*/
+#jssor_2 .highcharts-title tspan, #jssor_17 .highcharts-title tspan {
+	display: none;
+}
+/*#jssor_2{
+	position:relative;
+	margin:0 auto;
+	top:14px;
+	left:-7px;
+	width:878px;
+	height:357px;
+	overflow:hidden;
+	visibility:hidden;
+	background-color:#fff;
+	}*/
+/*#jssor_2>div>div div{
+cursor:default;
+position:relative;
+top:0px !important;
+left:0px !important;
+width:891px;
+height:356px;
+}*/
+#idRiskScore {
+	width: 380px;
+	height: 380px !important;
+	margin-top: -58px;
+	margin-left: 132px;
+}
+
+#idRiskScoreother { /**Modify on 15th sep version (NehaD) **/
+	width: 40% !important;
+	height: 380px !important;
+	margin-top: -58px;
+	margin-left: 242px;
+}
+
+#idRiskScore1, #idRiskScore2, #idRiskScore3, #idRiskScore4,
+	#idRiskScore5, #idRiskScore6, #idRiskScore7, #idRiskScore8,
+	#idRiskScore9, #idRiskScore10, #idRiskScore11, #idRiskScore12 {
+	width: 200px;
+} /**Modify on 15th sep version (NehaD) **/
+#jssor_15 div div div:nth-child(2) {
+	top: 1px !important;
+}
+
+.budgetratiotbl tr td {
+	width: 20%;
+	width: 20%;
+}
+
+#idRiskScore>div, #idRiskScoreother>div {
+	/**Modify on 15th sep version (NehaD) **/
+	padding-left: 212px !important;
+}
+
+#idRiskScore>div svg {
+	margin-left: -211px;
+	margin-top: 5px;
+}
+
+#idRiskScoreother>div svg { /**Modify on 15th sep version (NehaD) **/
+	margin-left: -211px;
+	margin-top: -57px;
+}
+
+.risktbl {
+	margin-top: -144px;
+	margin-left: 534px;
+}
+
+.risktbl tr, .glidnonglidselection tr {
+	background-color: white !important;
+}
+
+.risktbl tr td {
+	text-align: left;
+}
+
+.risktbl tr td:nth-child(1) img, .recommendedtbl tr td:nth-child(1) img
+	{
+	width: 12px;
+	height: 12px;
+	margin-top: -3px;
+}
+
+.libilitiestbl tr td:nth-child(1) img {
+	/**Added on 15th sep version (NehaD) **/
+	width: 12px;
+	height: 12px;
+	margin-top: -3px;
+}
+
+.currentincometbl tr td:nth-child(1) img {
+	width: 12px;
+	height: 12px;
+	margin-top: -3px;
+}
+
+.glidnonglidselection {
+	margin-top: -12px;
+}
+
+.riskpara {
+	width: 114%;
+	margin-top: 21px;
+	margin-left: 14px !important;
+}
+
+.jssort09 .highcharts-legend {
+	display: none;
+}
+
+.jssort09 {
+	bottom: -170px !important;
+	width: 930px !important;
+}
+
+.jssort09 .p>div>button {
+	height: 43px !important;
+	-webkit-border-radius: 0px !important;
+	text-align: center !important;
+}
+
+#jssor_9, #jssor_8 {
+	background-color: white !important;
+	overflow: initial !important;
+	height: 486px !important;
+	position: relative;
+	margin: 0 auto;
+	left: -7px;
+	width: 878px;
+	overflow: hidden;
+	visibility: hidden;
+	background-color: #fff;
+}
+
+.height413px {
+	height: 413px;
+}
+
+.slider9 {
+	cursor: default;
+	position: relative;
+	top: -6px;
+	left: 0px;
+	width: 919px;
+	height: 550px;
+	overflow: hidden;
+}
+/*.slider13{
+	cursor:default;
+	position:relative;
+	top:-6px;
+	left:0px;
+	width:919px;
+	height:424px;
+	overflow:hidden;
+	}*/
+.jssort09 {
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+	width: 958px;
+	height: 100px;
+}
+
+.jssort09>div {
+	cursor: default;
+	width: 500% !important;
+	left: 38px !important;
+}
+
+.nonglidrleftarrow, .glidrleftarrow, .amountneedleft, .yearlyleft,
+	.Goalsdetailsleft, .riskleft, .productleft, .golasinputleft,
+	.Incomeleft, .Expensesleft, .committedleft, .Loansleft, .netleft,
+	.ratioleft, .budgetrecommendleft {
+	top: 158px;
+	left: 8px;
+	width: 62px;
+	height: 62px;
+}
+
+.nonglidrarrow, .glidright, .amountneedright, .yearlyright,
+	.Goalsdetailsright, .riskright, .productright, .golasinputright,
+	.Incomeright, .Expensesright, .committedright, .Loansright, .netright,
+	.ratioright, .budgetrecommendright {
+	top: 158px;
+	right: -7px;
+	height: 62px;
+}
+
+.nonglidrleftarrow img, .nonglidrarrow img, .glidrleftarrow img,
+	.glidright img, .amountneedleft img, .amountneedright img, .yearlyright img,
+	.yearlyleft img, .Goalsdetailsright img, .Goalsdetailsleft img,
+	.riskleft img, .riskright img, .productleft img, .productright img,
+	.golasinputright img, .golasinputleft img, .Incomeleft img,
+	.Incomeright img, .Expensesleft img, .Expensesright img, .committedleft img,
+	.committedright img, .Loansleft img, .Loansright img, .netleft img,
+	.netright img, .ratioleft img, .ratioright img, .budgetrecommendleft img,
+	.budgetrecommendright img {
+	width: 24px;
+}
+#idRecommendedbarGraph .highcharts-container, #idcurrentVsrecommended .highcharts-container
+	{
+	height: 450px !important;
+} /**Modify on 15th sep version (NehaD) **/
+#idRecommendedbarGraph, #idcurrentVsrecommended {
+	width: 790px;
+	height: 45%;
+	margin-top: 6px;
+	margin-left: 30px;
+} /**Modify on 15th sep version (NehaD) **/
+#idRecommendedbarGraph .highcharts-container svg,
+	#idcurrentVsrecommended .highcharts-container svg {
+	height: 600px !important;
+} /**Modify on 15th sep version (NehaD) **/
+#idLineGraph {
+	width: 790px;
+	height: 40%;
+	margin-top: 18px;
+	margin-left: 30px;
+}
+
+.amtbl {
+	margin-top: 83px;
+	margin-left: 83px;
+}
+
+.amtbl tr td:nth-child(3) input {
+	margin-left: 26px !important;
+	margin-top: -11px !important;
+}
+
+.amtrdo {
+	width: 10%;
+	vertical-align: top;
+}
+
+.amtoinvest {
+	width: 184px;
+	height: 40px;
+}
+
+#idAmountneedGraph, #idAmountneedGraphpop {
+	/**Modify on 15th sep version (NehaD) **/
+	width: 790px;
+	height: 55%;
+	margin-top: 18px;
+	margin-left: 30px;
+}
+
+.height456px {
+	height: 456px;
+}
+
+#jssor_5, #jssor_18 {
+	position: relative;
+	margin: 0 auto;
+	left: -7px;
+	width: 878px;
+	height: 456px;
+	overflow: hidden;
+	visibility: hidden;
+	background-color: #fff;
+}
+/*#jssor_5>div>div div{
+cursor:default;
+position:relative;
+top:13px !important;
+left:0px !important;
+overflow:hidden !important;
+width:1119px;
+height:356px;
+}*/
+#jssor_18 .popup img {
+	width: 14px;
+	float: right;
+	margin-top: 11px !important;
+	margin-right: 38px;
+	margin-bottom: 5px;
+} /**Modify on 15th sep version (NehaD) **/
+#jssor_5 .popup img, #jssor_4 .popup img {
+	width: 14px;
+	float: right;
+	margin-top: 11px !important;
+	margin-right: 68px;
+	margin-bottom: 5px;
+}
+
+#jssor_10 .popup img {
+	width: 14px;
+	float: right;
+	margin-top: -22px !important;
+	margin-right: 36px;
+}
+
+#jssor_21 .popup img, #jssor_22 .popup img {
+	/**Modify on 15th sep version (NehaD) **/
+	width: 14px;
+	float: right;
+	margin-top: -22px !important;
+	margin-right: 113px;
+}
+
+#jssor_21 .popup img, #jssor_22 .popup img {
+	/**Modify on 15th sep version (NehaD) **/
+	width: 14px;
+	float: right;
+	margin-top: -22px !important;
+	margin-right: 113px;
+}
+
+#jssor_11 .popup img { /**Modify on 15th sep version (NehaD) **/
+	width: 14px;
+	float: right;
+	margin-top: -22px !important;
+	margin-right: 220p;
+}
+
+#jssor_20 .popup img {
+	width: 14px;
+	float: right;
+	margin-top: -22px;
+	margin-right: 187px;
+}
+
+#jssor_13 .popup img {
+	width: 14px;
+	float: right;
+	margin-top: -22px !important;
+	margin-right: 86px;
+}
+
+#jssor_13 .popup {
+	margin-top: 40px !important;
+}
+
+#jssor_12 .popup img {
+	width: 14px;
+	float: right;
+	margin-top: -22px !important;
+	margin-right: 204px;
+}
+
+#jssor_14 .popup img {
+	width: 14px;
+	float: right;
+	margin-top: -22px;
+	margin-right: 90px;
+}
+
+.maxbtn { /**Modify on 15th sep version (NehaD) **/
+	margin-right: 7px !important;
+}
+
+.jssort06 .p>div>button {
+	height: 43px !important;
+	border-radius: 0px;
+	text-align: center;
+}
+
+#jssor_6 {
+	position: relative;
+	margin: 0 auto;
+	left: -7px;
+	width: 878px;
+	overflow: hidden;
+	visibility: hidden;
+	background-color: #fff;
+}
+
+#yearlytbl {
+	margin-top: 27px;
+	margin-left: -29px;
+}
+
+#idLinebarGraph {
+	margin-left: 60px;
+	height: 370px;
+	width: 80%;
+}
+
+/**Modify on 15th sep version (NehaD) start**/
+#idRecommendedasset .highcharts-legend, #idCurrentIncome .highcharts-legend,
+	#idCurrentExpenses .highcharts-legend, #idlibilities .highcharts-legend,
+	#idassets .highcharts-legend, #idassetspop .highcharts-legend,
+	#idlibilitiespop .highcharts-legend, #idcurrentsubassets .highcharts-legend,
+	#idcurrentsubassetspop .highcharts-legend {
+	display: none;
+}
+
+#idassets div svg, #idassets div, #idlibilities div svg, #idlibilities div,
+	#idlibilitiespop div svg, #idlibilitiespop div, #idassetspop div svg,
+	#idassetspop div, #idcurrentsubassets div, #idcurrentsubassets div svg
+	{
+	width: 200% !important;
+}
+
+/**Modify on 15th sep version (NehaD) end**/
+#idRecommendedasset {
+	margin-top: 17px;
+	margin-left: 81px;
+	width: 50%;
+	z-index: 0;
+}
+
+.jssort07 .p>div>button {
+	height: 43px !important;
+	border-radius: 0px !important;
+	text-align: center;
+}
+
+.height370px {
+	height: 370px;
+}
+
+.marginleft183px {
+	margin-left: 54px;
+}
+
+.marginleft30px {
+	margin-left: 30px;
+}
+
+#idHistoricalGraph, #idhistorical1, #idIncomeProjection, #idBarGraph,
+	#idoutstandingloan, #idloanpayment, #idnet {
+	margin-left: 49px;
+	width: 90%;
+	height: 30% !important;
+	margin-top: 6px;
+}
+
+#idIncomeProjection, #idBarGraph, #idoutstandingloan, #idloanpayment,
+	#idnet { /**Modify on 15th sep version (NehaD)**/
+	margin-left: 32px;
+}
+
+.jssort09 div:nth-child(2) {
+	margin-left: 47px !important;
+}
+
+.highcharts-tracker rect {
+	max-width: 76px !important;
+}
+
+#jssor_1
+>
+div
+>
+div
+ 
+div
+:nth-child(2)
+ 
+div
+:nth-child(2)
+>
+div
+,
+{
+margin-top
+:
+ 
+28
+px
+ 
+!
+important
+;
+
+
+}
+#loadproduct {
+	margin-top: 27px;
+}
+
+.margintop28px {
+	margin-top: 28px;
+}
+
+.c-1-color {
+	background: #3a3a4f !important;
+}
+
+.c-2-color {
+	background: #95ceff !important;
+}
+
+.c-3-color {
+	background: #f7a35c !important;
+}
+
+.c-4-color {
+	background: #90ed7d !important;
+}
+
+.c-5-color {
+	background: #8085d9 !important;
+}
+
+#range {
+	width: 98%;
+}
+
+/**Modify on 15th sep version (NehaD) start**/
+#idCurrentIncome, #idlibilities, #idassets,
+	#idcurrentsubassets { /*removed idcurrentexpenses by nehad*/
+	margin-top: 5px;
+}
+
+#idCurrentExpenses{ /*modify on30th oct by nehad*/
+margin-top:-53px;
+margin-left:30px;
+}
+
+#idCurrentIncome{ /*modify on30th oct by nehad*/
+
+margin-left:-9px;
+}
+
+#idCurrentIncome svg, #idCurrentExpenses svg, #idlibilities svg,
+	#idassets svg, #idlibilities svg, #idcurrentsubassets svg {
+	margin-left: 91px;
+	/* margin-top: -26px;*/
+	width: 300px;
+}
+
+#idCurrentIncome svg{ /*added on 30th oct by nehad*/
+	margin-top:-28px;
+}
+
+#idlibilitiespop svg, #idassetspop svg {
+	margin-left: 69px;
+}
+
+/**Modify on 15th sep version (NehaD) start**/
+.margintop44 {
+	margin-top: 50px;
+}
+
+.incomeprojtbl {
+	margin-top: 37px;
+	margin-left: 67px;
+}
+
+.incomeprojtbl tr td:nth-child(2), .incomeprojtbl tr th:nth-child(2) {
+	width: 20% !important;
+}
+/********Added By Debolina on 17th October *****/
+.incomeprojtbl tr td:nth-child(1) {
+	width: 12% !important;
+}
+/**********Added By Debolina End *************/
+.keyassumptions {
+	margin-top: 0px;
+	margin-left: 29px;
+}
+
+.keyassumptions tr {
+	height: 40px;
+}
+
+.keyassumptions tr td input {
+	/*margin-top:-17px;	*/
+	width: 104%;
+}
+
+.keyassumptions tr td:nth-child(6) input {
+	width: 102%;
+}
+
+.netsurplurtbls {
+	margin-top: 30px;
+	margin-left: 164px;
+}
+
+.netsurplurtbls tr td {
+	width: 189px;
+}
+
+#budgetdashbord {
+	height: 483px !important;
+}
+
+.assetOwner1_img, .assetOwner2_img, .assetOwner3_img, .assetOwner4_img,
+	.assetOwner5_img, .assetOwner6_img, .assetOwner7_img {
+	width: 24px;
+	outline: none;
+}
+
+.goaltypetbl { //
+	margin-top: -8px; //
+	background-color: white !important;
+}
+
+.goaltypetbl tr {
+	background-color: white !important;
+}
+
+.goal_icon td { //
+	border: 1px solid black;
+	vertical-align: top;
+	width: 115px;
+	text-align: center;
+}
+
+.goalOwner_img {
+	height: 35px;
+}
+
+.hoverman {
+	outline: none !important;
+	content: url('../images/icons/Man-B.png');
+}
+
+.activeman {
+	outline: none !important;
+	content: url('../images/icons/Man-C.png');
+}
+
+.hoverself {
+	outline: none !important;
+	content: url('../images/icons/Lady-B.png');
+}
+
+.activeself {
+	outline: none !important;
+	content: url('../images/icons/Lady-C.png');
+}
+
+.hoverboy {
+	outline: none !important;
+	content: url('../images/icons/Boy-B.png');
+}
+
+.activeboy {
+	outline: none !important;
+	content: url('../images/icons/Boy-C.png');
+}
+
+.hovergirl {
+	outline: none !important;
+	content: url('../images/icons/Girl-B.png');
+}
+
+.activegirl {
+	outline: none !important;
+	content: url('../images/icons/Girl-C.png');
+}
+
+.hoverfather {
+	outline: none !important;
+	content: url('../images/icons/Father-B.png');
+}
+
+.activefather {
+	outline: none !important;
+	content: url('../images/icons/Father-C.png');
+}
+
+.hovermother {
+	outline: none !important;
+	content: url('../images/icons/Mother-B.png');
+}
+
+.activemother {
+	outline: none !important;
+	content: url('../images/icons/Mother-C.png');
+}
+
+.hoverother {
+	outline: none !important;
+	content: url('../images/icons/Other-B.png');
+}
+
+.activeother {
+	outline: none !important;
+	content: url('../images/icons/Other-C.png');
+}
+
+.familymember {
+	margin-top: 29px;
+	margin-left: 17px;
+}
+
+.familymembertbl tr td {
+	padding-right: 30px !important;
+}
+
+.familymembertbl tr {
+	background-color: white !important;
+}
+
+.familymembertbl {
+	margin-top: -8px;
+}
+
+.widthsz {
+	width: 100%;
+}
+/****Modified By Debolina Start************/
+.expenseDet {
+	margin-top: 46px;
+	margin-left: 34px;
+}
+
+.expenseDet tr td, .expenseDet tr th {
+	width: 18%;
+}
+
+.expensetbl {
+	margin-top: 46px;
+	margin-left: 211px;
+}
+
+.expensetbl tr td, .expensetbl tr th {
+	width: 18%;
+}
+/****Modified By Debolina End************/
+.commited {
+	margin-top: 106px;
+	margin-left: 204px;
+}
+
+.committedtbl {
+	margin-left: 118px;
+	margin-top: 64px;
+}
+
+.loanscurrent {
+	margin-top: 99px;
+	margin-left: 33px;
+}
+
+#IndividualLoanstbl {
+	margin-top: 39px;
+}
+
+.margintop {
+	margin-top: 34px;
+}
+
+.loantotal {
+	margin-top: 37px;
+	margin-left: 91px;
+}
+
+.netsurplusproj {
+	margin-top: 37px;
+	margin-left: 47px; /**Modify on 15th sep version (NehaD)**/
+}
+
+.netsurplusproj tr th {
+	width: 3%;
+}
+
+.ratiotbl {
+	margin-top: 105px;
+	margin-left: 108px;
+}
+
+.ratiotbl tr td {
+	text-align: left;
+}
+
+.ratiotbl tr td:nth-child(3) {
+	text-align: center;
+}
+/*.individualoan tr td:nth-child(7),.individualoan tr td:nth-child(8),.individualoan tr td:nth-child(2),.individualoan tr td:nth-child(3),.individualoan tr td:nth-child(4),.individualoan tr td:nth-child(5),.individualoan tr td:nth-child(6){
+	width:5px;
+}*/
+/********Changed By Debolina 23rdOct,2017*****/
+#jssor_13>div>div>div:nth-child(2)>div:nth-child(5), #jssor_6 div div div:nth-child(2) div:nth-child(2)
+	{
+	overflow-y: scroll !important;
+	width: 895px !important;
+}
+/********Changed By Debolina End23rdOct,2017*****/
+/**Modify on 21th Dec version (NehaD) start**/
+#jssor_23>div>div>div:nth-child(2)>div:nth-child(4),#jssor_23>div>div>div:nth-child(2)>div:nth-child(2),#jssor_23>div>div>div:nth-child(2)>div:nth-child(5),#jssor_23>div>div>div:nth-child(2)>div:nth-child(6),#jssor_23>div>div>div:nth-child(2)>div:nth-child(7),#jssor_23>div>div>div:nth-child(2)>div:nth-child(8),#jssor_23>div>div>div:nth-child(2)>div:nth-child(9),#jssor_23>div>div>div:nth-child(2)>div:nth-child(10)
+	{
+	overflow-y: scroll !important;
+	width: 895px !important;
+}
+
+#jssor_18 div div div:nth-child(2) div:nth-child(2) {
+	overflow: scroll !important;
+	width: 877px !important;
+	height: 462px !important;
+}
+
+#jssor_21>div>div>div:nth-child(2)>div:nth-child(2), #jssor_21>div>div>div:nth-child(2)>div:nth-child(4),
+	#jssor_22 div div div:nth-child(2) div:nth-child(2) {
+	overflow-y: scroll !important;
+	width: 895px !important;
+	overflow-x: hidden !important;
+}
+
+#jssor_21>div>div>div:nth-child(2)>div:nth-child(5) {
+	overflow-y: scroll !important;
+	width: 895px !important;
+}
+
+#jssor_22 div div div:nth-child(2) div:nth-child(3), #jssor_23>div>div>div:nth-child(2)>div:nth-child(3)
+{
+	overflow-y: scroll !important;
+	width: 895px !important;
+}
+
+#jssor_22>div>div>div:nth-child(2)>div:nth-child(4) {
+	overflow: scroll !important;
+	width: 895px !important;
+}
+
+.jssort21 div:nth-child(2) div:nth-child(2), .jssort22 div:nth-child(2) div:nth-child(2),
+	.jssort23 div:nth-child(2) div:nth-child(2) {
+	height: 43px !important;
+}
+
+#jssor_21>div>div>div:nth-child(2)>div:nth-child(6), #jssor_21>div>div>div:nth-child(2)>div:nth-child(3)
+	{
+	overflow: scroll !important;
+	width: 895px !important;
+	height: 414px !important;
+	overflow-x: hidden !important;
+}
+
+/**Modify on 15th sep version (NehaD) end**/
+.input-group .form-control, .ui-checkbox input, input, .btn {
+	z-index: 0 !important;
+}
+/*ci*/
+.form-horizontal .asset-owner-wrapper .radio-inline {
+	margin-right: 30px;
+	min-width: 85px;
+	padding-left: 10px;
+	text-align: center;
+	padding-top: 0;
+}
+
+.asset-owner-wrapper label>input {
+	visibility: hidden;
+	position: absolute;
+}
+
+.asset-owner-wrapper label>input+img {
+	cursor: pointer;
+	display: block;
+	margin: auto;
+	margin-top: 5px;
+	margin-bottom: 13px;
+	border: 2px solid transparent;
+	pointer-events: none;
+	position: relative;
+}
+
+.asset-owner-wrapper label>input:checked+img {
+	border: 2px solid #3475b6;
+	border-radius: 50%;
+	padding: 0px;
+}
+
+.asset-owner-wrapper label {
+	display: inline-block;
+	position: relative;
+}
+
+.asset-owner-wrapper label::before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: -1;
+}
+
+.input-group.input-width-medium, .input-width-medium {
+	width: 228px;
+}
+
+.calendar-icon-theme {
+	color: #0057a8;
+	font-size: 16px;
+	font-size: 1.6rem;
+	background-image: url(../images/calendar-icon.png);
+	background-position: right 0px top 0px;
+	background-repeat: no-repeat;
+	width: 20px;
+	height: 20px;
+	background-size: 18px 18px !important;
+}
+
+.calendar-icon-container {
+	padding: 5px 5px 2px 5px !important;
+	height: 34px !important;
+}
+
+.interestrt {
+	border-bottom-left-radius: 0 !important;
+	border-top-left-radius: 0 !important;
+	height: 34px !important;
+}
+
+.rupee-icon-container {
+	height: 34px !important;
+}
+
+.addbtn {
+	color: white !important;
+	background-color: #6eaee5 !important;
+	width: 21%;
+	height: 33px;
+	padding: 2px;
+}
+
+.btn.btn-default.btn-theme {
+	border-color: #898888;
+	padding: 7px 87px;
+	font-size: 13px;
+	/* font-size: 1.6rem; */
+	font-weight: 700;
+	text-transform: uppercase;
+	border-radius: 8px;
+	color: #141414;
+	background-color: #fff;
+}
+
+.retirementview tr th, .retirementview tr td {
+	text-align: center !important;
+}
+
+.retirementview tr td:nth-child(1) {
+	text-align: center !important;
+}
+
+.retirementview tr td:nth-child(4) {
+	text-align: right !important;
+}
+
+.cicontainer {
+	background-color: white;
+	width: 878px;
+	height: 100%;
+	margin-top: 33px;
+	margin-left: -7px;
+	padding: 20px;
+}
+
+.cicontainer>div {
+	padding-top: 20px;
+	font-size: 14px;
+}
+
+.cicontainer>div form {
+	width: 113%;
+	margin-left: -34px
+}
+
+.cicontainer .asset-owner-wrapper {
+	margin-left: -5px;
+}
+
+.cicontainer .asset-owner-wrapper label {
+	margin-left: 3px;
+}
+
+.full-width-divider {
+	width: 88%;
+	margin-left: 36px;
+}
+
+.displayflex {
+	display: flex;
+}
+
+#ppfExtension, #ppfExtensionType {
+	padding-top: 2px;
+}
+
+.dashboardheading {
+	color: #0b60a9 !important;
+}
+
+.selected {
+	border: solid #6eaee5 2px;
+	border-collapse: collapse;
+	border-radius: 9px !important;
+	box-shadow: 0 0px 0px rgba(82, 168, 236, .8) inset, 0 0 8px
+		rgba(82, 168, 236, .8);
+}
+/*popupwindows*/
+/* The Modal (background) */
+.modal, .modal1, .modal2, .modal3, .modal4, .modal5, .modal6,.modal7,.modal8,.modal9,.modal10,.modal11,.modal12 {
+	/**Modify on 15th sep version (NehaD)**/
+	display: none; /* Hidden by default */
+	position: fixed; /* Stay in place */
+	z-index: 1; /* Sit on top */
+	padding-top: 100px; /* Location of the box */
+	left: 0;
+	top: 0;
+	width: 100%; /* Full width */
+	height: 100%; /* Full height */
+	overflow: auto; /* Enable scroll if needed */
+	background-color: rgb(0, 0, 0); /* Fallback color */
+	background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+}
+/* Modal Content */
+.modal-content, .modal-content1 {
+	position: relative;
+	background-color: #fefefe;
+	margin: auto;
+	padding: 0;
+	border: 1px solid #888;
+	width: 98%;
+	margin-top: -94px;
+	height: auto;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0
+		rgba(0, 0, 0, 0.19);
+	-webkit-animation-name: animatetop;
+	-webkit-animation-duration: 0.4s;
+	animation-name: animatetop;
+	animation-duration: 0.4s
+}
+/* Add Animation */
+@
+-webkit-keyframes animatetop {
+	from {top: -300px;
+	opacity: 0
+}
+
+to {
+	top: 0;
+	opacity: 1
+}
+
+}
+@
+keyframes animatetop {
+	from {top: -300px;
+	opacity: 0
+}
+
+to {
+	top: 0;
+	opacity: 1
+}
+
+}
+/* The Close Button */
+.close, .close1, .close2, .close3, .close4, .close5, .close6 ,.close7,.close8,.close9,.close10,.close11,.close12{
+	/**Modify on 15th sep version (NehaD)**/ /* from .close7 to .close12 added on 11th dec by nehad*/
+	color: white;
+	float: right;
+	font-size: 28px;
+	font-weight: bold;
+	opacity: initial !important;
+}
+
+.close img, .close1 img, .close2 img, .close3 img, .close4 img {
+	/**Modify on 15th sep version (NehaD)**/
+	width: 14px;
+}
+
+.close:hover, .close:focus, .close1:hover, .close1:focus {
+	color: #000;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.modal-header {
+	padding: 2px 16px;
+	background-color: #6eaee5;
+	color: white;
+	height: 34px;
+}
+
+.modal-body {
+	padding: 2px 16px;
+}
+
+.modal-footer {
+	padding: 2px 16px;
+	background-color: #6eaee5;
+	color: white;
+	height: 34px;
+}
+/*.productbl tr td:nth-child(3) table tr td:nth-child(2){
+    width: 200px !important;
+}*/
+.rp1 tr td:nth-child(2) {
+	width: 200px !important;
+}
+
+.productrt tr td {
+	text-align: right !important;
+}
+
+.glidnonglidselection tr td:nth-child(1), .glidnonglidselection tr td:nth-child(3)
+	{
+	padding-bottom: 10px !important;
+}
+
+.login {
+	font-family: 'Rubik', Arial, sans-serif;
+}
+
+.login h1 {
+	font-size: 30px;
+}
+
+.login p {
+	font-size: 18px;
+}
+
+.login input {
+	background-color: #33cc33;
+	width: 43%;
+	border: none !important;
+	font-size: 14px;
+	color: white;
+}
+
+.register tr {
+	background-color: white !important;
+}
+
+.register tr td {
+	text-align: center !important;
+	font-size: 14px;
+	padding: 1px;
+}
+
+.submit input {
+	
+}
+
+.register tr td input {
+	width: 70%;
+	margin: auto;
+	background-color: #f6f4f4;
+	font-size: 14px;
+}
+
+.submit input {
+	width: 58%;
+	height: 25px;
+	margin: auto;
+	background-color: #f6f4f4;
+	font-size: 14px;
+	padding: 4px;
+	margin-bottom: 5px;
+}
+
+.loginform input {
+	width: 67% !important;
+}
+
+.submit h4 {
+	text-align: center;
+}
+
+.submit  select {
+	width: 58%;
+	/*height:25px;*/
+	margin: auto;
+	background-color: #f6f4f4;
+	font-size: 14px;
+	margin-bottom: 8px;
+	height: 28px;
+	padding-bottom: 2px;
+}
+
+.greenbg {
+	background-color: #33cc33 !important;
+	width: 50%;
+	font-size: 14px;
+	color: white;
+	border: none !important;
+}
+
+/* Uncommented Jayati 10-10-2017 */
+/********Changed By Debolina 23rdOct,2017*****/
+#jssor_13>div>div>div:nth-child(2)>div:nth-child(4) {
+	overflow-y: visible !important;
+}
+
+#jssor_13>div>div>div:nth-child(2)>div:nth-child(2) {
+	/****Modified By Debolina Start *****/
+	overflow-y: scroll !important;
+	/****Modified By Debolina End *****/
+	overflow-x: hidden;
+}
+/* End Uncomment Jayati 10-10-2017 */
+/********Changed By Debolina 23rdOct,2017*****/
+.terms tr td {
+	font-size: 10px !important;
+	padding-top: 9px !important;
+	background-color: white !important;
+	text-align: left !important;
+}
+
+.terms tr td:nth-child(1) {
+	text-align: right !important;
+}
+
+.terms tr td:nth-child(1) input {
+	width: 15px;
+	margin-top: -6px;
+}
+
+.checkbox {
+	text-align: center;
+	width: 398px;
+}
+
+.checkboxregister {
+	width: 274px;
+	text-align: center;
+}
+
+.checkbox label {
+	width: 218px;
+	margin-left: -33px;
+	font-size: 12px;
+	margin-bottom: 18px;
+	margin-top: 9px;
+}
+
+.checkboxregister label {
+	width: 72px;
+	margin-left: -27px;
+	font-size: 12px;
+	margin-bottom: 18px;
+	margin-top: 9px;
+}
+
+.checkbox input, .checkboxregister input {
+	margin-left: -33px;
+	float: left;
+	width: 16px;
+	margin-top: -4px;
+}
+
+.checkboxregister input {
+	width: 21% !important;
+}
+
+.mybusinesstop {
+	display: block !important;
+}
+
+.nonload {
+	display: none;
+}
+#idexpensesummary .highcharts-legend {
+	
+	display:none !important;
+}
+
+/* .nonload,#top-nav-bar{
+	display:none;
+}
+ */
+/* .height1257px{
+	height:1257px; *Modify on 15th sep version (NehaD) *
+}
+*/
+#jssor_10 div div div:nth-child(2) div:nth-child(3) {
+	overflow-y: scroll !important;
+	width: 895px !important;
+}
+
+.riskprofiletbl tr:nth-child(1) {
+	background-color: white;
+}
+
+.riskprofiletbl {
+	margin-top: -66px;
+	margin-left: 54px;
+	height: 543px;
+}
+
+.existingclient {
+	cursor: pointer;
+}
+/****Modified by Debolina ***/
+#jssor_13>div>div>div:nth-child(2)>div:nth-child(3) {
+	overflow-y: scroll !important;
+	width: 895px !important;
+	overflow-x: hdden;
+}
+
+#jssor_11 div div div:nth-child(2) div:nth-child(3), #jssor_13>div>div>div:nth-child(2)>div:nth-child(4),
+	#jssor_12 div div div:nth-child(2) div:nth-child(3), #jssor_6 div div div:nth-child(2) div:nth-child(2)
+	{
+	overflow-y: scroll !important;
+	width: 895px !important;
+}
+/**Modified By Debolina End ***************/
+/**Modify on 15th sep version (NehaD)**/
+#jssor_1 { /**Modify on 15th sep version (NehaD)**/
+	height: 490px !important;
+}
+
+#jssor_11 div div div:nth-child(2) div:nth-child(5) {
+	overflow-y: scroll !important;
+	width: 895px !important;
+}
+
+#jssor_11 div div div:nth-child(2) div:nth-child(4) {
+	overflow-y: scroll !important;
+	overflow-x: scroll !important;
+	width: 895px !important;
+}
+
+.humbergerwidth {
+	width: 250px;
+}
+
+.marginleft35px {
+	margin-left: 35px !important;
+}
+
+#idBarGraph svg, #idBarGraph>div {
+	height: 500px !important;
+}
+
+#idIncomeProjection svg, #idIncomeProjection>div {
+	height: 500px !important;
+}
+/**Modify on 15th sep version (NehaD) start**/
+#netsurplusfp svg, #netsurplusfp>div {
+	height: 400px !important;
+}
+
+#netsurplusfp {
+	height: 40%;
+	width: 60%;
+}
+
+.loanscurrent tr td:nth-child(2) {
+	text-align: left;
+}
+
+.loanscurrent tr th:nth-child(1), .loanscurrent tr th:nth-child(2) {
+	text-align: left;
+}
+/**Modify on 15th sep version (NehaD) end**/
+.individualoan {
+	margin-left: 20px;
+}
+
+#jssor_14 div div div:nth-child(2) div:nth-child(2), #jssor_14 div div div:nth-child(2) div:nth-child(3)
+	{ /**Modify on 15th sep version (NehaD)**/
+	overflow-y: scroll !important;
+	overflow-x: hidden !important;
+	width: 895px !important;
+}
+
+/**Added on 15th sep version (NehaD) start**/
+#jssor_20 div div div:nth-child(2) div:nth-child(2) {
+	overflow-y: scroll !important;
+	overflow-x: hidden !important;
+	width: 895px !important;
+	/*height:1000px !important;*/
+}
+
+#jssor_20 div div div:nth-child(2) div:nth-child(3) {
+	/* overflow:auto; */
+	overflow-y: scroll !important;
+	overflow-x: hidden !important;
+	width: 895px !important;
+}
+
+/**Added on 15th sep version (NehaD) end**/
+.bmratiotbl tr td img {
+	width: 12px;
+	margin-top: -1px;
+}
+
+.bmratiotbl tr {
+	background-color: white !important;
+}
+
+.bmratiotbl {
+	margin-left: 200px; /**Added on 15th sep version (NehaD)**/
+}
+
+.ratiotbl tr td:nth-child(2), .ratiotbl tr td:nth-child(5) {
+	text-align: left;
+}
+
+#idBarGraphpop>div {
+	height: 500px !important;
+}
+
+#idBarGraphpop>div>svg {
+	height: 500px !important;
+}
+
+#jssor_5 {
+	overflow: scroll !important;
+}
+
+#jssor_6>div>div div:nth-child(3) div:nth-child(2) {
+	overflow: scroll !important;
+	width: 876px !important;
+}
+
+#jssor_6 .popup img { /**Added on 15th sep version (NehaD) start**/
+	width: 14px;
+	float: right;
+	margin-top: 11px !important;
+	margin-right: 14px;
+	margin-bottom: 5px;
+}
+
+#jssor_23 .popup img { /**Added on 15th sep version (NehaD) start**/
+	width: 14px;
+	float: right;
+	margin-top: -20px !important;
+	margin-right: 14px;
+	margin-bottom: 5px;
+}
+/** Goal timeline slider **/
+#time-range p {
+	font-family: "Arial", sans-serif;
+	font-size: 14px;
+	color: #333;
+}
+
+.ui-slider-horizontal {
+	height: 8px;
+	background: #D7D7D7;
+	border: 1px solid #BABABA;
+	box-shadow: 0 1px 0 #FFF, 0 1px 0 #CFCFCF inset;
+	clear: both;
+	margin: 8px 0;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	-ms-border-radius: 6px;
+	-o-border-radius: 6px;
+	border-radius: 6px;
+}
+
+.ui-slider {
+	position: relative;
+	text-align: left;
+}
+
+.ui-slider-horizontal .ui-slider-range {
+	top: -1px;
+	height: 100%;
+}
+
+.ui-slider .ui-slider-range {
+	position: absolute;
+	z-index: 1;
+	height: 8px;
+	font-size: .7em;
+	display: block;
+	border: 1px solid #5BA8E1;
+	box-shadow: 0 1px 0 #AAD6F6 inset;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	-khtml-border-radius: 6px;
+	border-radius: 6px;
+	background: #81B8F3;
+	background-image:
+		url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgi…pZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
+	background-size: 100%;
+	background-image: -webkit-gradient(linear, 50% 0, 50% 100%, color-stop(0%, #A0D4F5),
+		color-stop(100%, #81B8F3));
+	background-image: -webkit-linear-gradient(top, #A0D4F5, #81B8F3);
+	background-image: -moz-linear-gradient(top, #A0D4F5, #81B8F3);
+	background-image: -o-linear-gradient(top, #A0D4F5, #81B8F3);
+	background-image: linear-gradient(top, #A0D4F5, #81B8F3);
+}
+
+.ui-slider .ui-slider-handle {
+	border-radius: 50%;
+	background: #F9FBFA;
+	background-image:
+		url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgi…pZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
+	background-size: 100%;
+	background-image: -webkit-gradient(linear, 50% 0, 50% 100%, color-stop(0%, #C7CED6),
+		color-stop(100%, #F9FBFA));
+	background-image: -webkit-linear-gradient(top, #C7CED6, #F9FBFA);
+	background-image: -moz-linear-gradient(top, #C7CED6, #F9FBFA);
+	background-image: -o-linear-gradient(top, #C7CED6, #F9FBFA);
+	background-image: linear-gradient(top, #C7CED6, #F9FBFA);
+	width: 22px;
+	height: 22px;
+	-webkit-box-shadow: 0 2px 3px -1px rgba(0, 0, 0, 0.6), 0 -1px 0 1px
+		rgba(0, 0, 0, 0.15) inset, 0 1px 0 1px rgba(255, 255, 255, 0.9) inset;
+	-moz-box-shadow: 0 2px 3px -1px rgba(0, 0, 0, 0.6), 0 -1px 0 1px
+		rgba(0, 0, 0, 0.15) inset, 0 1px 0 1px rgba(255, 255, 255, 0.9) inset;
+	box-shadow: 0 2px 3px -1px rgba(0, 0, 0, 0.6), 0 -1px 0 1px
+		rgba(0, 0, 0, 0.15) inset, 0 1px 0 1px rgba(255, 255, 255, 0.9) inset;
+	-webkit-transition: box-shadow .3s;
+	-moz-transition: box-shadow .3s;
+	-o-transition: box-shadow .3s;
+	transition: box-shadow .3s;
+}
+
+.ui-slider .ui-slider-handle {
+	position: absolute;
+	z-index: 2;
+	width: 22px;
+	height: 22px;
+	cursor: default;
+	border: none;
+	cursor: pointer;
+}
+
+.ui-slider .ui-slider-handle:after {
+	content: "";
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	border-radius: 50%;
+	top: 50%;
+	margin-top: -4px;
+	left: 50%;
+	margin-left: -4px;
+	background: #30A2D2;
+	-webkit-box-shadow: 0 1px 1px 1px rgba(22, 73, 163, 0.7) inset, 0 1px 0
+		0 #FFF;
+	-moz-box-shadow: 0 1px 1px 1px rgba(22, 73, 163, 0.7) inset, 0 1px 0 0
+		white;
+	box-shadow: 0 1px 1px 1px rgba(22, 73, 163, 0.7) inset, 0 1px 0 0 #FFF;
+}
+
+.ui-slider-horizontal .ui-slider-handle {
+	top: -.5em;
+	margin-left: -.6em;
+}
+
+.ui-slider a:focus {
+	outline: none;
+}
+/* goal timeline slider end **/
+
+/**Added on 15th sep version (NehaD) start**/
+.jssort21>div {
+	left: 35px !important;
+}
+
+.jssort21 div:nth-child(2) div:nth-child(6), .jssort22 div:nth-child(2) div:nth-child(6)
+	{
+	margin-left: -55px;
+}
+
+.currentsubtbl tr td:nth-child(1) {
+	width: 30% !important;
+}
+
+.recommendedsubtbl tr td:nth-child(1) {
+	width: 43% !important;
+}
+
+.benchmarktbl tr td:nth-child(1) {
+	width: 30% !important;
+}
+
+.currentsubtbl tr th:nth-child(1) {
+	text-align: left !important;
+}
+
+.benchmarktbl tr td:nth-child(2), .benchmarktbl tr th:nth-child(1),
+	.benchmarktbl tr th:nth-child(2) {
+	text-align: left;
+}
+
+.coltwo_rightalg tr td:nth-child(2) {
+	text-align: center !important;
+}
+
+.coltwo_rightalg tr th:nth-child(1) {
+	text-align: left;
+}
+
+.rightalgnclm tr td:nth-child(2) {
+	text-align: right !important;
+}
+
+.rightalgnclm tr th:nth-child(1) {
+	text-align: left;
+}
+
+.libilitiestbl tr td:nth-child(2) {
+	text-align: right !important;
+}
+
+.libilitiestbl {
+	margin-left: 47px;
+}
+
+.tblheading {
+	margin-left: 47px;
+	margin-top: 36px;
+}
+
+.contingencytbl {
+	margin-left: 47px;
+}
+
+.libilitiestbwdth tr td:nth-child(1) {
+	width: 48% !important;
+}
+
+.libilitiestbwdthpop tr td:nth-child(3) {
+	width: 21% !important;
+}
+
+.negred {
+	color: red;
+}
+
+.individualoan tr th:nth-child(1) {
+	text-align: left !important;
+}
+
+.loantotal tr th:nth-child(1) {
+	text-align: left !important;
+}
+
+.libilitiestblsummary tr td:nth-child(3) {
+	width: 112px !important;
+}
+
+.recommendedaatbl tr td:nth-child(1) {
+	width: 37% !important;
+}
+
+.ratiotbl tr th {
+	text-align: left !important;
+}
+
+.portfolioreco tr td:nth-child(2), .portfolioreco tr th (2):nth-child(2)
+	{
+	text-align: left;
+}
+
+.alignleft tr td:nth-child(2), .alignleft tr th:nth-child(2) {
+	text-align: left;
+}
+
+.width12per {
+	width: 12% !important;
+}
+
+.infosystbl tr td:nth-child(1) {
+	font-weight: bold !important;
+}
+
+#idinfosys {
+	margin-top: 32px;
+}
+
+#idassetkotak svg, #idkotakmarket svg {
+	/*margin-top:-72px;*/
+	
+}
+
+.kotakgraphs tr th {
+	text-align: left !important;
+}
+
+.portfoliodetails tr td:nth-child(3), .portfoliodetails tr th:nth-child(3)
+	{
+	text-align: left;
+}
+
+.portfoliodetails tr td:nth-child(2) {
+	text-align: center;
+}
+
+/**Added on 15th sep version (NehaD) end**/
+
+/** Added by Jayati on 04/10/2017 to fix datepicker visibility issue **/
+.datepicker .datepicker-switch:hover, .datepicker .next:hover,
+	.datepicker .prev:hover, .datepicker tfoot tr th:hover {
+	background: #4e4e4e;
+}
+/** End code add by Jayati **/
+/***Start of Code of Neha for Rangeslider on 25thOct ****/
+.thumb {
+	display: none;
+}
+#rangeslide13_label1 span {
+	background-color: green;
+	color: white;
+	padding: 2px;
+	border-radius: 5px;
+}
+
+#rangeslide13_label1 span::after {
+	position: static;
+	border-top: 8px solid green;
+	border-left: 8px solid transparent;
+	border-right: 8px solid transparent;
+	content: "";
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	width: 0px;
+	margin-bottom: -8px;
+}
+
+#rangeslide13_label2 span {
+	background-color: red;
+	color: white;
+	padding: 2px;
+	border-radius: 5px;
+}
+
+/* arrow after date*/
+#rangeslide13_label2 div::after {
+	position: absolute;
+	border-bottom: 8px solid red;
+	border-left: 8px solid transparent;
+	border-right: 8px solid transparent;
+	content: "";
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	width: 0px;
+	margin-bottom: -62px;
+	margin-top: 23px;
+	margin-left: -11px;
+}
+/**End Of Code by Neha on 25thOct **********/
+
+/*modify on 30th oct by neha start*/
+
+#idexpensesummary .highcharts-tooltip{
+ 
+   
+	transform:translate(39px,61px) !important;
+ 
+ }
+ #idCurrentExpenses .highcharts-tooltip{
+ 
+ transform:translate(49px,61px) !important;
+ 
+ }
+ 
+ #idexpensesummary>.highcharts-container{
+ 
+ overflow:visible !important;
+ }
+
+ #idexpensesummary .highcharts-background{
+ 
+ fill: transparent !important;
+ 
+ }
+ #jssor_11 div div div:nth-child(2) div:nth-child(6) {
+	overflow-y: scroll !important;
+	width: 895px !important;
+}
+ #idCurrentExpenses .highcharts-background{
+ 
+ fill: transparent !important;
+ 
+ }
+#netsurplusfp svg,#netsurplusfp>div{
+	height:440px !important; /* modified on 27 nov */
+}
+
+
+#netsurpluspopfp svg,#netsurpluspopfp>div{
+	
+	height:440px !important; /* added on 27 nov */
+	
+}
+/*modify on 30th oct by neha end*/
+
+
+/* Advisor Dashboard style added by NehaD 11 Dec*/
+
+.addclientform input{
+	
+	margin-top:5px !important;
+	
+	}
+.addclientform{
+	margin-top: 12px;
+margin-left: 17px;
+
+}
+
+.tdthcenter tr td ,.tdthcenter tr th  {
+	
+	text-align:center !important;
+	
+	
+}
+
+.advisordashboardtbl tr td{
+	 /* border: 2px solid #ececec;*/
+	background:#ececec;
+	    /*padding: 80px 30px 5px;*/
+		width:33%;
+		
+		
+		
+   
+}
+.advisordashboardtbl {
+   border-spacing: 30px;
+	border-collapse: separate;
+	width: 103%;
+margin-top: -40px;
+margin-left: -13px;
+}
+
+.innnerdashboardtbl{
+	padding:1px !important;
+	
+}
+
+.dashboardinnerheading{
+	color:#0b60a9 !important;
+	font-size:14px;
+	
+}
+.bggrey{
+	
+	
+	background:#ececec;
+}
+
+.resulttopbrdr{
+	
+	border-top-style: solid !important;
+border-top-color: #d4d4d5 !important;
+border-top-width: 2px !important;
+	
+}
+
+#assetclass .highcharts-background,#producttype .highcharts-background {
+	
+	fill:#ececec !important;
+	
+}
+
+#assetclass svg,#producttype svg{
+	
+	margin-top: -20px;
+}
+.bgblurheadingclr{
+	
+	background:#0b60a9;
+	color:white;
+	font-size: 12px;
+padding: 3px;
+}
+
+.prev1, .next1{
+	
+	margin-top:4px !important;
+	
+	}
+.prev1,.next1,.prev2,.prev3,.next2,.next3,.next4,.next5,.prev4,.prev5 ,.prev6{
+ cursor: pointer;
+position: absolute;
+width: 14px;
+padding: 16px;
+color: #717171;
+font-weight: bold;
+font-size: 18px;
+transition: 0.6s ease;
+border-radius: 0 3px 3px 0;
+margin-top: 4px;
+margin-left: -16px;
+}
+.prev4,.next4{
+	
+	margin-top: -3px !important;
+	
+}
+.prev5,.next5{
+	
+	margin-top: 5px !important;
+	
+}
+
+@media only screen and (max-width: 300px) {
+  .prev1,.prev2,.prev3,.prev4,.prev5,.next1,.next2,.next3,.next5,.next4,.text,.text1,.text2 {font-size: 11px}
+}
+#popupwindow .next{
+	
+visibility: visible;
+margin-top: -6px;
+color: white;
+margin-right: 9px;
+}
+.next1,.next2,.next3,.next4,.next5 {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+.dot,.dot1,.dot2,.dot3,.dot4,.dot5 {
+  cursor:pointer;
+  height: 13px;
+  width: 13px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active1,.active2,.active3,.active4,.active5,.dot:hover,.dot1:hover,.dot2:hover,.dot3:hover,.dot4:hover {
+  background-color: #717171;
+}
+.mySlides,.mySlides1,.mySlides2,.mySlides3,.mySlides4,.mySlides5 {display:none}
+
+.fade,.fade1,.fade2,.fade3 ,.fade4,.fade5{
+  -webkit-animation-name: fade !important;
+  -webkit-animation-duration: 1.5s !important;
+  animation-name: fade !important;
+  animation-duration: 1.5s !important;
+  opacity: 1 !important;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+.slideshow-container,.slideshow-container1,.slideshow-container2,.slideshow-container3 {
+  max-width:230px;
+  position: relative;
+  margin: auto;
+  height:129px;
+}
+
+
+.modal,.modal1,.modal2,.modal3,.modal4,.modal5,.modal6,.modal7,.modal8,.modal9,.modal10,.modal11,.modal12 { /**Modify on 15th sep version (NehaD)**/
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+.dashbordbtn{
+	margin-left: 38px;
+	background-color:#33cc33 !important;
+width: 105px;
+height: 22px;
+color:white;
+font-size:10px;
+	
+	
+}
+
+/* Client Dashboard added on 12 dec by nehad*/
+
+.boxtbls tr td{
+	
+	text-align:left !important;
+}
+
+#idRisk .highcharts-background{
+	/*fill: #ececec !important;
+	height : "300" !important;*/
+	display:none;
+}
+
+#idRisk .highcharts-title{
+	
+	display:none;
+}
+
+#idRisk svg{
+margin-top: -94px;
+margin-left: 6px;
+}
+
+.advisorportfolio{
+	
+	font-size:12px;
+	margin-top: -197px;
+margin-left: 66px;
+}
+.advisorportfolio tr td:nth-child(1) img{
+	
+	width:12px;
+	height:12px;
+}
+
+.advisorportfolio tr td:nth-child(2){
+	
+	text-align:left;
+}
+
+#idRisk .highcharts-container {
+
+	height: 207px !important;
+}
+
+#clientdashbarGraph .highcharts-container {
+
+	height: 223px !important;
+	}
+#clientdashbarGraph .highcharts-background{
+	
+	display:none;
+	
+}
+
+
+#clientdashbarGraph svg{
+	
+	height:100% !important;
+}
+
+
+.portfoliotbl tbody tr:nth-child(odd) td:nth-child(5),.portfoliotbl tbody tr:nth-child(odd) td:nth-child(6),.portfoliotbl tbody tr:nth-child(odd) td:nth-child(7){
+background-color:#FDEBD0;
+text-align:center;
+}
+
+
+
+
+.portfoliotbl tbody tr:nth-child(odd) td:nth-child(3),.portfoliotbl tbody tr:nth-child(odd) td:nth-child(4){
+background-color: #D6EAF8;
+text-align:center;
+}
+
+
+.golpland tbody tr:nth-child(odd) td:nth-child(5),.golpland tbody tr:nth-child(odd) td:nth-child(6){
+background-color: #D6EAF8;
+text-align:center;
+}
+
+.firsttdleft tr td:nth-child(1),.firsttdleft tr th:nth-child(1){
+	
+	text-align:left !important;
+}
+
+.coverpg tr {
+	background-color:transparent !important;
+}
+.coverpg{
+margin-left:10%;
+}
+.coverpgwhitefnt{
+	
+	color:white;
+	background-color:transparent;
+	font-size:2em;
+}
+.fontsize2em{
+font-size:2em;	
+}
+
+.borderleftgreen{
+	
+	border-left-style: solid !important;
+border-left-color: rgb(111,240,208) !important;
+margin-right:1px;
+}
+
+.indextbl tr td,.indextbl tr th{
+	
+	text-align:left;
+	background-color:white;
+	font-size:2em;
+}
+
+/**Added by Piyali on 15th Feb,2018 **/
+
+.col2n3centeralign tr td:nth-child(2),.col2n3centeralign tr td:nth-child(3),.col2n3centeralign tr th:nth-child(2),.col2n3centeralign tr th:nth-child(3)
+
+{ text-align:center !important; }
+
+
